@@ -70,7 +70,7 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/check
 --beam 5 --source-lang en --target-lang hi --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
-cat $OUTFILENAME.hi | sacrebleu ~/scripts/chat_en_hi/data/data/wmt20_chat/test.hi  -m bleu ter
+cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
 ```
 
 ## Generate From Finetuned model
@@ -80,7 +80,7 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 --beam 5 --source-lang en --target-lang hi --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
-cat $OUTFILENAME.hi | sacrebleu ~/scripts/chat_en_hi/data/data/wmt20_chat/test.hi  -m bleu ter
+cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/wmt20_chat/test.hi  -m bleu ter
 ```
 
 # Chat & QnA Translation for hindi-English
@@ -100,8 +100,7 @@ for SUBSET in train test valid
 do
   for LANG in en hi
   do
-    cat $DATA_DIR/$SUBSET.$LANG | $MOSES_DIR/scripts/tokenizer/lowercase.perl> $DATA_DIR/$SUBSET.lc.$LANG
-    $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/$SUBSET.lc.$LANG $DATA_DIR/bpecode
+    $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/$SUBSET.$LANG $DATA_DIR/bpecode
   done
 done
 
@@ -141,14 +140,14 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --max-update 5000 \
     --save-interval 10 \
     --patience 5 \
-    --finetune-from-model models/samanantar/checkpoint_last.pt \
+    --finetune-from-model models/samanantar_hi_en/checkpoint_last.pt \
     --save-dir $MODEL_DIR &
 ```
 
 ## Generate From Baseline model
 ```
 OUTFILENAME=$DATA_DIR/result_baseline
-fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/checkpoint_last.pt  --remove-bpe \
+fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar_hi_en/checkpoint_last.pt  --remove-bpe \
 --beam 5 --source-lang hi --target-lang en --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
