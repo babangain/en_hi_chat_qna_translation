@@ -5,8 +5,12 @@
 ## English-Hindi version of WMT20 Chat Data
 ### Lowercase and Apply BPE
 ```
+MOSES_DIR=mosesdecoder
+FASTBPE_DIR=fastBPE
+
 DATA_FOLDER_NAME=wmt20_chat_en_hi
 DATA_DIR=data/$DATA_FOLDER_NAME
+mkdir -p $DATA_DIR
 cp en_hi/bpecode $DATA_DIR/bpecode
 cp en_hi/vocab.en $DATA_DIR/vocab.en
 
