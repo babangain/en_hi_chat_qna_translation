@@ -19,7 +19,7 @@ do
   for LANG in en hi
   do
     cat $DATA_DIR/$SUBSET.$LANG | $MOSES_DIR/scripts/tokenizer/lowercase.perl> $DATA_DIR/$SUBSET.lc.$LANG
-    $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/SUBSET.lc.$LANG $DATA_DIR/bpecode
+    $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/$SUBSET.lc.$LANG $DATA_DIR/bpecode
   done
 done
 
@@ -34,6 +34,8 @@ fairseq-preprocess \
     --joined-dictionary \
     --srcdict $DATA_DIR/vocab.en \
     --trainpref $DATA_DIR/train.bpe \
+    --validpref $DATA_DIR/valid.bpe \
+    --testpref $DATA_DIR/test.bpe \
     --destdir $BINARY_DATA_DIR \
     --workers 20
 ```
@@ -42,27 +44,28 @@ fairseq-preprocess \
 ```
 MODEL_DIR=models/$DATA_FOLDER_NAME
 mkdir -p $MODEL_DIR
-export CUDA_VISIBLE_DEVICES=5,6
-nohup fairseq-train --fp16 \
-    $BINARY_DATA_DIR \
+export CUDA_VISIBLE_DEVICES=5
+nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --source-lang en --target-lang hi \
     --arch transformer --log-interval  1  --log-format simple \
     --dropout 0.2 --weight-decay 0.0 \
     --share-all-embeddings \
     --ddp-backend=no_c10d \
+    --lr 0.0005 \
     --criterion label_smoothed_cross_entropy --label-smoothing 0.1 \
     --optimizer adam --adam-betas '(0.9, 0.98)' --clip-norm 0.0 --seed 42 \
-    --lr 0.0005 --lr-scheduler inverse_sqrt --warmup-updates 5000 --disable-validation --valid-subset train \
-    --max-tokens 4000 --update-freq 64  \
-    --max-epoch 30 \
-    --save-interval 10\
+    --lr-scheduler inverse_sqrt \
+    --max-tokens 4000 --update-freq 4 \
+    --max-update 5000 \
+    --save-interval 10 \
+    --patience 5 \
+    --finetune-from-model models/samanantar/checkpoint_last.pt \
     --save-dir $MODEL_DIR &
 ```
 ## Generate 
 ```
-BINARY_DATA_DIR=~/scripts/chat_en_hi/data/data_bin/data/wmt20_chat
-OUTFILENAME=wmt20_baseline
-fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/checkpoint_last.pt  --remove-bpe \
+OUTFILENAME=$DATA_DIR/result_finetune
+fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_best.pt  --remove-bpe \
 --beam 5 --source-lang en --target-lang hi --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
