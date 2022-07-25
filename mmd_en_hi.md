@@ -83,7 +83,7 @@ cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
 
 ## Training with WMT20 Chat Model
 ```
-SUFFIX=xfer_from_mmd
+SUFFIX=xfer_from_chat
 MODEL_DIR=models/$DATA_FOLDER_NAME.$SUFFIX
 mkdir -p $MODEL_DIR
 export CUDA_VISIBLE_DEVICES=4
@@ -107,7 +107,7 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
 
 ## Generate From Transfer Learning Model
 ```
-OUTFILENAME=$DATA_DIR/result_finetune
+OUTFILENAME=$DATA_DIR/result_$SUFFIX
 fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_best.pt  --remove-bpe \
 --beam 5 --source-lang en --target-lang hi --task translation >  $OUTFILENAME.txt
 
