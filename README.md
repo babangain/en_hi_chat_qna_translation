@@ -44,7 +44,7 @@ fairseq-preprocess \
 ```
 MODEL_DIR=models/$DATA_FOLDER_NAME
 mkdir -p $MODEL_DIR
-export CUDA_VISIBLE_DEVICES=5
+export CUDA_VISIBLE_DEVICES=2
 nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --source-lang en --target-lang hi \
     --arch transformer --log-interval  1  --log-format simple \
@@ -60,7 +60,7 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --save-interval 10 \
     --patience 5 \
     --finetune-from-model models/samanantar/checkpoint_last.pt \
-    --save-dir $MODEL_DIR &
+    --save-dir $MODEL_DIR >nohup9.out &
 ```
 
 ## Generate From Baseline model
@@ -138,7 +138,7 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --lr-scheduler inverse_sqrt \
     --max-tokens 4000 --update-freq 4 \
     --max-update 5000 \
-    --save-interval 10 \
+    --save-interval 1 \
     --patience 5 \
     --finetune-from-model models/samanantar_hi_en/checkpoint_last.pt \
     --save-dir $MODEL_DIR &
