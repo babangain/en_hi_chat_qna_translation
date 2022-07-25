@@ -62,16 +62,23 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --finetune-from-model models/samanantar/checkpoint_last.pt \
     --save-dir $MODEL_DIR &
 ```
-## Generate 
+
+## Generate From Baseline model
+```
+OUTFILENAME=$DATA_DIR/result_baseline
+fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/checkpoint_last.pt  --remove-bpe \
+--beam 5 --source-lang en --target-lang hi --task translation >  $OUTFILENAME.txt
+
+cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
+cat $OUTFILENAME.hi | sacrebleu ~/scripts/chat_en_hi/data/data/wmt20_chat/test.hi  -m bleu ter
+```
+
+## Generate From Finetuned model
 ```
 OUTFILENAME=$DATA_DIR/result_finetune
 fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_best.pt  --remove-bpe \
 --beam 5 --source-lang en --target-lang hi --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
-
 cat $OUTFILENAME.hi | sacrebleu ~/scripts/chat_en_hi/data/data/wmt20_chat/test.hi  -m bleu ter
-
-```
-
 ```
