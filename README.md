@@ -71,6 +71,9 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/check
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi agent
+cat $OUTFILENAME.hi.agent | sacrebleu $DATA_DIR/agent.hi -m bleu ter
 ```
 
 ## Generate From Finetuned model
@@ -81,6 +84,9 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi agent
+cat $OUTFILENAME.hi.agent | sacrebleu $DATA_DIR/agent.hi -m bleu ter
 ```
 ## Training with MMD Model
 ```
@@ -114,6 +120,8 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi agent
+cat $OUTFILENAME.hi.agent | sacrebleu $DATA_DIR/agent.hi -m bleu ter
 ```
 # Chat & QnA Translation for hindi-English
 
