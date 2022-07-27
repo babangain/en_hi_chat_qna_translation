@@ -191,7 +191,7 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar_hi_en
 --beam 5 --source-lang hi --target-lang en --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
-cat $OUTFILENAME.en | $DATA_DIR/test.en  -m bleu ter
+cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 ```
 
 ## Generate From Finetuned model
