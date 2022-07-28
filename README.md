@@ -235,7 +235,7 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
 ## Generate From Transfer Learning Model
 ```
 OUTFILENAME=$DATA_DIR/result_$SUFFIX
-fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_last.pt  --remove-bpe \
+fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_best.pt  --remove-bpe \
 --beam 5 --source-lang hi --target-lang en --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
