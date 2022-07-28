@@ -1,6 +1,6 @@
 ## Install dependencies from https://github.com/babangain/english_hindi_translation
 
-## English-Hindi version of MMD Data
+## Hindi-English version of MMD Data
 ### Lowercase and Apply BPE
 ```
 MOSES_DIR=mosesdecoder
