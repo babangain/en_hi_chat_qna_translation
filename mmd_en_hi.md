@@ -69,6 +69,9 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/check
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi system
+cat $OUTFILENAME.hi.system | sacrebleu $DATA_DIR/system.hi -m bleu ter
 ```
 
 ## Generate From Finetuned model
@@ -79,6 +82,8 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi system
+cat $OUTFILENAME.hi.system | sacrebleu $DATA_DIR/system.hi -m bleu ter
 ```
 
 ## Training with WMT20 Chat Model
@@ -113,6 +118,9 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi system
+cat $OUTFILENAME.hi.system | sacrebleu $DATA_DIR/system.hi -m bleu ter
 ```
 ## Context Based Model
 ```
@@ -179,4 +187,10 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
 cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi system
+cat $OUTFILENAME.hi.system | sacrebleu $DATA_DIR/system.hi -m bleu ter
+```
+## Extract users from test set
+```
+cat data/mmd_csv/test.csv | awk -F"\t" '{print $3}'
 ```
