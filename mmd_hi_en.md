@@ -56,21 +56,22 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --max-update 5000 \
     --save-interval 1 \
     --patience 5 \
-    --finetune-from-model models/samanantar/checkpoint_last.pt \
+    --finetune-from-model models/samanantar_hi_en/checkpoint_last.pt \
     --save-dir $MODEL_DIR &
 ```
 
 ## Generate From Baseline model
 ```
+export CUDA_VISIBLE_DEVICES=5
 OUTFILENAME=$DATA_DIR/result_baseline
-fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar/checkpoint_last.pt  --remove-bpe \
+fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar_hi_en/checkpoint_last.pt  --remove-bpe \
 --beam 5 --source-lang hi --target-lang en --task translation >  $OUTFILENAME.txt
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 
-python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.hi user
-cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.hi -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en user
+cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.en -m bleu ter
 ```
 
 ## Generate From Finetuned model
@@ -81,8 +82,8 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
-python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en system
-cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.hi -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en user
+cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.en -m bleu ter
 ```
 
 ## Training with WMT20 Chat Model
@@ -119,7 +120,7 @@ cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/t
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 
 python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.en user
-cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.hi -m bleu ter
+cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.en -m bleu ter
 ```
 ## Context Based Model
 ```
@@ -187,7 +188,7 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.en user
-cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.hi -m bleu ter
+cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.en -m bleu ter
 ```
 ## Extract users from test set
 ```
