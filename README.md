@@ -192,6 +192,8 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path models/samanantar_hi_en
 
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en customer
+cat $OUTFILENAME.en.customer | sacrebleu $DATA_DIR/customer.en -m bleu ter
 ```
 
 ## Generate From Finetuned model
@@ -200,8 +202,11 @@ OUTFILENAME=$DATA_DIR/result_finetune
 fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_best.pt  --remove-bpe \
 --beam 5 --source-lang hi --target-lang en --task translation >  $OUTFILENAME.txt
 
+
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en customer
+cat $OUTFILENAME.en.customer | sacrebleu $DATA_DIR/customer.en -m bleu ter
 ```
 ## Training with MMD Model
 ```
@@ -223,17 +228,18 @@ nohup fairseq-train $BINARY_DATA_DIR --fp16 \
     --max-update 5000 \
     --save-interval 1 \
     --patience 5 \
-    --finetune-from-model models/mmd_hi_/checkpoint_best.pt \
+    --finetune-from-model models/mmd_hi_en/checkpoint_best.pt \
     --save-dir $MODEL_DIR &
 ```
 
 ## Generate From Transfer Learning Model
 ```
 OUTFILENAME=$DATA_DIR/result_$SUFFIX
-fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_best.pt  --remove-bpe \
+fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_last.pt  --remove-bpe \
 --beam 5 --source-lang hi --target-lang en --task translation >  $OUTFILENAME.txt
 
-cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.hi 
-cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
-python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi agent
-cat $OUTFILENAME.hi.agent | sacrebleu $DATA_DIR/agent.hi -m bleu ter
+cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
+cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en customer
+cat $OUTFILENAME.en.customer | sacrebleu $DATA_DIR/customer.en -m bleu ter
+```
