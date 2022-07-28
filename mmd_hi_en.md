@@ -119,7 +119,7 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 
-python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.en user
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en user
 cat $OUTFILENAME.en.user | sacrebleu $DATA_DIR/user.en -m bleu ter
 ```
 ## Context Based Model
