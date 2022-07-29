@@ -140,7 +140,7 @@ do
     $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/$SUBSET.lc.$LANG $DATA_DIR/bpecode
   done
 done
-
+```
 ## Binarize the data for faster training
 ```
 BINARY_DATA_DIR=data_bin/$DATA_FOLDER_NAME
@@ -189,7 +189,7 @@ cat $OUTFILENAME.hi | sacrebleu $DATA_DIR/test.hi  -m bleu ter
 
 python scripts/user_divide.py $DATA_DIR test.hi test.speaker.txt $OUTFILENAME.hi agent
 cat $OUTFILENAME.hi.agent | sacrebleu $DATA_DIR/agent.hi -m bleu ter
-
+```
 # Chat & QnA Translation for hindi-English
 
 ###  Apply BPE
