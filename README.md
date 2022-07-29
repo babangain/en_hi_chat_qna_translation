@@ -323,8 +323,7 @@ for SUBSET in train test valid
 do
   for LANG in en hi
   do
-    cat $DATA_DIR/$SUBSET.$LANG | $MOSES_DIR/scripts/tokenizer/lowercase.perl> $DATA_DIR/$SUBSET.lc.$LANG
-    $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/$SUBSET.lc.$LANG $DATA_DIR/bpecode
+    $FASTBPE_DIR/fast applybpe $DATA_DIR/$SUBSET.bpe.$LANG $DATA_DIR/$SUBSET.$LANG $DATA_DIR/bpecode
   done
 done
 
@@ -367,6 +366,6 @@ fairseq-generate $BINARY_DATA_DIR --batch-size 32 --path $MODEL_DIR/checkpoint_b
 cat $OUTFILENAME.txt |grep ^H | sort -nr -k1.2 | cut -f3- | $MOSES_DIR/scripts/tokenizer/detokenizer.perl > $OUTFILENAME.en 
 cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 
-python scripts/user_divide.py $DATA_DIR test.eb test.speaker.txt $OUTFILENAME.en customer
+python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en customer
 cat $OUTFILENAME.en.customer | sacrebleu $DATA_DIR/customer.en -m bleu ter
 ```
