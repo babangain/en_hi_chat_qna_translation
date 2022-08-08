@@ -1,0 +1,502 @@
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	0	agent	hello, how can i help you?	हैलो, मैं कैसे आपकी मदद कर सकता हूं?
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	1	customer	Hi. I'm trying to buy movie tickets at the AMC Houston 8 in Houston, Texas.	नमस्ते। मैं ह्यूस्टन, टेक्सास में एएमसी ह्यूस्टन 8 में मूवी टिकट खरीदने की कोशिश कर रहा हूं।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	2	customer	I was hoping you could help me place that order.	मैं उम्मीद कर रहा था कि आप उस ऑर्डर को प्लेस करने में मेरी मदद कर सकते हैं।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	3	agent	sure, i can help you with that for sure. what did you want to see?	ज़रूर, मैं निश्चित रूप से इसमें आपकी मदद कर सकता हूँ। आप क्या लेना चाहते थे?
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	4	customer	glass.	ग्लास
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	5	agent	and did you want to watch today?	और क्या आप आज देखना चाहते हैं?
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	6	customer	Yes, please.	हां प्लीज
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	7	customer	And two tickets. Two tickets to the 7:00 p.m.	और दो टिकट। शाम 7:00 बजे के दो टिकट।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	8	agent	there's showing of glass at 4pm, 7pm, and 10pm. do any of these times work for you.	शाम 4 बजे, शाम 7 बजे और रात 10 बजे ग्लास दिखाया जा रहा है. क्या इनमें से कोई भी समय आपके लिए सही रहता है।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	9	agent	sure, for 2 tickets to the 7pm showing it'll be $24.	ज़रूर, शाम 7 बजे तक के 2 टिकटों के लिए $24 लगेंगे।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	10	customer	Yeah, go ahead.	हां जल्दी करें।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	11	agent	should i process your payment now.	क्या मैं आपका पेमेंट अभी प्रोसेस करु?
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	12	agent	you got it. 2 tickets to see glass at amc houston 8 at 7pm has been purchased. the tickets will be sent to your mobile device shortly.	आपको यह मिला गया है। एएमसी ह्यूस्टन 8 में शाम 7 बजे ग्लास देखने के लिए 2 टिकट खरीदे जा चुके हैं। टिकट जल्द ही आपके मोबाइल डिवाइस पर भेज दिए जाएंगे।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	13	agent	did you need anything else?	क्या आपको कुछ और चाहिए था?
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	14	customer	I think that's it.	मुझे लगता है कि बस सब हो गया।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	15	agent	awesome, enjoy the movie.	बहुत बढ़िया, फिल्म का आनंद लें।
+dlg-0093d9ca-b42d-4b3c-9a89-c872000915f6	16	customer	Thank you.	धन्यवाद।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	0	agent	Hi how are you?	नमस्ते, आप कैसे हैं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	1	customer	Good. How are you?	अच्छा हूं। आप कैसे हैं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	2	agent	Great, thanks for asking, how can I help you?	बहुत बढ़िया, पूछने के लिए धन्यवाद, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	3	customer	Could you help me with a place to find lunch in Sacramento?	क्या आप सैक्रामेंटो में लंच के लिए जगह खोजने में मेरी मदद कर सकते हैं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	4	agent	Sure, what part of town are you?	ज़रूर, आप शहर के किस हिस्से में हैं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	5	customer	I'm inside Arden Care mall.	मैं आर्डेन केयर मॉल के अंदर हूं।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	6	agent	And did you have any dining preferences?	और क्या आपके पास कोई डाइनिंग प्रीफरेंसेस है?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	7	customer	I'm not too picky, but I don't want anything that is too expensive. It doesn't have to be too cheap either. Just nothing that is super expensive. And also, nothing that requires	मैं बहुत पिकी नहीं हूं, लेकिन मुझे ऐसा कुछ भी नहीं चाहिए जो बहुत महंगा हो। यह बहुत सस्ता होना भी जरूरी नहीं है। ऐसा कुछ भी नहीं जो बहुत महंगा हो। और साथ ही, ऐसा कुछ आवश्यक भी नहीं है।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	8	customer	like a fancy dress.	जैसे कि फैंसी ड्रेस।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	9	customer	And also, I don't want it to be too far away from the mall where I am now, so maybe within 10 mi.	और साथ ही, मैं नहीं चाहता कि यह उस मॉल से बहुत दूर हो जहां मैं अभी हूं, शायद 10 मीनट के अंदर।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	10	agent	Got it. And what kind of food would you like to eat?	समझ गया। और आप किस तरह का खाना खाना पसंद करेंगे?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	11	customer	How about seafood?	सी फूड के बारे में क्या कहते हैं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	12	agent	Lets see what we can do. One moment while I find a few options.	आइए देखें कि हम क्या कर सकते हैं। एक मीनट जबतक कि मुझे कुछ विकल्प मिलते हैं।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	13	agent	So the first that came to mind is Mikuni, Local Japanese chain serving sushi, small plates & hot entrees in a stylish space. Then there's Red Lobster, a Lively chain restaurant serving American seafood standards amid New England-themed decor.	तो सबसे पहले जो दिमाग में आया वह है मिकुनी, स्थानीय जापानी श्रृंखला जो सुशी, छोटी प्लेट और एक स्टाइलिश जगह में गर्म प्रवेश करती है। फिर न्यू इंग्लैंड-थीम वाली सजावट के बीच अमेरिकी समुद्री भोजन मानकों की सेवा करने वाला एक जीवंत श्रृंखला रेस्तरां रेड लॉबस्टर है।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	14	customer	Could you tell me the price range of both restaurants?	क्या आप मुझे दोनों रेस्तरां का प्राइस रेंज बता सकते हैं?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	15	agent	Both are fairly priced at 10-20 dollars a meal.	दोनों की कीमत 10-20 डॉलर प्रति भोजन के लिए काफी है।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	16	customer	Okay, great. And could you tell me what the customer rating is for both restaurants?	ठीक है बहुत बढ़िया। और क्या आप मुझे बता सकते हैं कि दोनों रेस्तरां के लिए ग्राहक रेटिंग क्या है?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	17	agent	Red lobster is a 4.0 while Mikuni is 4.3 stars.	रेड लॉबस्टर 4.0 है जबकि मिकुनी 4.3 स्टार है।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	18	customer	Okay. I think I'm interested. Could you tell me what their phone number is?	ठीक है। मुझे लगता है कि मैं इनट्रेस्टेड हूं। क्या आप मुझे बता सकते हैं कि उनका फोन नंबर क्या है?
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	19	agent	Sure that's (916) 564-2114.	ज़रूर यह (916) 564-2114 है।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	20	customer	Okay, great. Thank you so much for your help and figuring out a restaurant.	ठीक है बहुत बढ़िया। आपकी मदद और रेस्तरां का पता लगाने के लिए बहुत-बहुत धन्यवाद।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	21	agent	Of course, it was my pleasure. I hope you enjoy it.	बेशक, यह मेरी खुशनसीबी थी। मुझे उम्मीद है कि आप इसे पसन्द करेंगें।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	22	customer	Thanks, I'm sure I will.	धन्यवाद, मुझे यकीन है कि मैं करूँगा।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	23	agent	Take care now, have a great day, bye.	अब अपना ख्याल रखें, आपका दिन मंगलमय हो, अलविदा।
+dlg-00d44b07-4d5e-42ae-ba74-b445f1e23004	24	customer	Thanks.	धन्यवाद।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	0	agent	How can I help you?	मैं आपकी मदद कैसे कर सकता हूँ?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	1	customer	Hi. I'm looking to book some movie tickets.	हाय। मैं कुछ मूवी टिकट बुक करना चाहता हूं।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	2	agent	Okay what film did you want?	अच्छा आपको कौन सी फिल्म चाहिए?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	3	customer	Glass.	ग्लास
+dlg-097887e5-303c-4757-80e6-dd4630621f09	4	agent	That's really popular.	यह वास्तव में पॉपूलर है।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	5	agent	What time?	कितने बजे का?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	6	customer	In the afternoon today.	आज दोपहर का।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	7	customer	Whittier, California.	व्हिटियर, कैलिफ़ोर्निया।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	8	agent	and did you have a city in mind?	और क्या आपके माइंड में कोई शहर है?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	9	agent	Is 3:55 too early for you?	क्या 3:55 आपके लिए बहुत जल्दी है?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	10	customer	No, that's fine.	नहीं यह ठीक है।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	11	agent	Okay how many tickets will you need?	अच्छा आपको कितने टिकट की जरुरत होगी?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	12	customer	three.	तीन
+dlg-097887e5-303c-4757-80e6-dd4630621f09	13	agent	Great. While I'm booking that did you need any other info?	बहुत बढ़िया। जब मैं बुकिंग कर रहा हूं तो क्या आपको किसी अन्य जानकारी की आवश्यकता है?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	14	customer	Yeah, could you tell me who directed the movie?	हाँ, क्या आप मुझे बता सकते हैं कि फिल्म का निर्देशन किसने किया है?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	15	agent	M Night Shyamalan.	एम नाइट श्यामलन।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	16	customer	Okay.	ठीक है।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	17	customer	Go ahead and book the tickets.	आगे बढ़ो और टिकट बुक करो।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	18	agent	SO it looks like the 3:55 showing is sold out. I can cancel or book a different showtime.	तो ऐसा लगता है कि 3:55 शो बिक चुका है। मैं एक अलग शोटाइम कैंसल या बुक कर सकता हूं।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	19	customer	Book a different show time.	एक अलग शो टाइम बुक करें।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	20	agent	Does 4:50 work for you?	क्या 4:50 आपके लिए सही रहेगा?
+dlg-097887e5-303c-4757-80e6-dd4630621f09	21	customer	Is 550 well for you? Yes.	क्या 550 आपके लिए सही है? हां।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	22	agent	Alright, that's going to be 4 tickets to the Starlight Whittier Village Cinemas. Tickets arrive via mobile and it costs $30.33.	ठीक है, यह स्टारलाईट व्हिटियर विलेज सिनेमाज के 4 टिकट हो रहे हैं। टिकट मोबाइल के माध्यम से आते हैं और इनकी कीमत $30.33 है।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	23	customer	Okay, sounds good.	ठीक है! सही लग रहा है।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	24	agent	Have a great time at the movies.	फिल्मों में अच्छा समय बिताएं।
+dlg-097887e5-303c-4757-80e6-dd4630621f09	25	customer	Thank you.	धन्यवाद।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	0	customer	Hi. How's it going?	नमस्ते। कैसा चल रहा है?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	1	agent	hi, how can i help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	2	agent	it's going great. how are you?	बहुत अच्छा चल रहा है। आप कैसे हैं?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	3	customer	I'm great. I'd like to order three medium pizzas from Belluno, please.	मैं बहुत बढ़िया हूँ। मैं बेलुनो से तीन मीडियम पिज्जा ऑर्डर करना चाहता हूं, प्लीज।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	4	agent	great to hear. sure, let's do it. what did you want on those 3 medium pizzas?	सुन कर अच्छा लगा। ज़रूर, इसे करते हैं। आप उन 3 मीडियम पिज्जा पर क्या चाहते हैं?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	5	customer	I would like to know does does bone have good cheese?	मैं जानना चाहता हूं कि क्या बोन में अच्छा चीज़ है क्या?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	6	agent	yes, bella luna has goat cheese.	हाँ, बेला लूना में गोट चीज़ है।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	7	customer	Okay, I'd like to have goat cheese, cheddar cheese, arty chips, and bacon.	ठीक है, मैं गोट चीज़, चेडर चीज़, आर्टी चिप्स और बेकन खाना चाहूँगा।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	8	agent	did you want those toppings on all 3 pizzas?	क्या आप सभी 3 पिज्जों पर वो टॉपिंग चाहते हैं?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	9	agent	got it, and what did you want for the other two?	समझ गया, और आप अन्य दो के लिए क्या चाहते हैं?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	10	customer	Does Bella Luna have shrimp?	क्या बेला लूना में झींगा है?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	11	agent	no, unfortunately they do not have shrimp.	नहीं, दुर्भाग्य से उनके पास झींगा नहीं है।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	12	customer	All right, I will All right, I would like to have on on this pizza I would like extra mushrooms, cheddar cheese.	ठीक है, मैं ठीक हूँ, मैं इस पिज़्ज़ा पर चाहूँगा मुझे एक्स्ट्रा मशरूम, चेडर चीज़ चाहिए।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	13	customer	extra bacon.	एक्सट्रा बेकन।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	14	customer	And barbecue sauce, please.	और बारबेक्यू सॉस, प्लीज।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	15	agent	got it. and what did you want on the third?	समझा। और आप तीसरे पर क्या चाहते है?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	16	customer	I would like to have.	मैं पसंद करूँगा।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	17	customer	Do they have a Mexican-style pizza?	क्या उनके पास मैक्सिकन-स्टाइल पिज्जा है?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	18	agent	no, unfortunately they do not.	नहीं, दुर्भाग्य से वे नहीं रतेते हैं।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	19	customer	K, one moment.	ठीक है एक सेकंड।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	20	customer	What does the vegetarian pizza What does the veggie lover's pizza have on it?	शाकाहारी पिज़्ज़ा क्या होता है वेजी लवर्स के पिज़्ज़ा में क्या होता है?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	21	agent	veggie lovers has green peppers, mushrooms, olives, and sun dried tomatoes.	वेजी प्रेमियों के में हरी मिर्च, मशरूम, जैतून और सन ड्राइड टमाटर होते हैं।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	22	customer	Okay, I will I will do that and I'll take extra cheese and all of the pizzas, please. And I'll add oreo chocs to the veggie lovers.	ठीक है, मैं वह करूँगा और मैं एक्ट्रा  चीज़ और सभी पिज़्ज़ा लूँगा, प्लीज। और मैं वेजी लवर्स के लिए ओरियो चॉक्स डालूंगा।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	23	agent	let me make sure i got the order down correctly before submitting. 3 medium pizzas, 1 with goat cheese, feta cheese, artichokes and bacon, 1 with extra mushrooms, cheddar cheese, extra bacon, and bbq sauce. and 1 veggie lovers and add artichokes. all pizzas with extra cheese.	मुझे यह सुनिश्चित करने दें कि सबमिट करने से पहले मुझे ऑर्डर सही तरीके से मिल गया है। 3 मीडियम पिज्जा, 1 गोट चीज़, फेटा चीज़, आर्टिचोक और बेकन के साथ, 1 एक्स्ट्रा मशरूम, चेडर चीज़, एक्स्ट्रा बेकन, और बीबीक्यू सॉस के साथ। और 1 वेजी लवर्स और ऐडेड आर्टिचोक। एक्स्ट्रा चीज़ के साथ सारे पिज्जा।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	24	agent	is that correct?	क्या वो सही है?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	25	customer	That's correct, thank you.	यह सही है, धन्यवाद।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	26	agent	$56.55 is the total. did you want me to place the order now?	$56.55 कुल है। क्या आप चाहते हैं कि मैं अभी ऑर्डर करूं?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	27	customer	Yes, please.	हां, जरुर
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	28	agent	ok. i've submitted the order. it'll be ready for pick up in 35 mins.	ठीक है। मैंने ऑर्डर सबमिट कर दिया है। यह 35 मिनट में पिकअप के लिए तैयार हो जाएगा।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	29	agent	did you need help with anything else?	क्या आपको किसी और चीज की मदद चाहिए?
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	30	customer	That would be all. Thank you so much for your help.	यह काफी होगा। आपकी मदद के लिए बहुत बहुत धन्यवाद।
+dlg-11dd7e6e-6212-4217-9870-45c0085a4193	31	agent	you are very welcome.	तुम्हारा बहुत स्वागत है।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	0	agent	hi, how can i help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	1	customer	Hi assistant. I would like to order a Peet's cafe mocha.	हाय असिस्टेंट। मैं एक पीट्स कैफे मोचा ऑर्डर करना चाहता/चाहती हूं।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	2	agent	sure, which peet's should i place the order at?	ज़रूर, मुझे किस पीट्स पर ऑर्डर देना चाहिए?
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	3	customer	I'm located in Fort Worth, Texas.	मैं फोर्ट वर्थ, टेक्सास में हूं।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	4	agent	got it. what size did you want the cafe mocha?	समझा। कैफे मोचा आपको किस साइज का चाहिए था?
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	5	customer	I'd like a medium, like 2% milk, and extra sugar, and whip cream.	मुझे एक मीडियम चाहिए, जैसे 2% दूध, और एक्सट्रा अतिरिक्त चीनी, और व्हिप क्रीम।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	6	agent	coming right up. so you said you want a medium cafe mocha with 2% milk and extra sugar and whipped cream from peet's in fort worth texas.	सही आ रहा है। तो आपने कहा कि आप 2% दूध और एक्स्ट्रा सुगर के साथ एक मीडियम कैफे मोचा चाहते हैं और फोर्ट वोर्थ टेक्सास  में पीट्स से व्हीप्ड क्रीम।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	7	agent	did i get that right?	क्या मैने इसे सही समझा?
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	8	customer	Yes, you did.	हाँ आपने किया।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	9	agent	awesome! the total for your drink is $3.40. should i place the order now?	बहुत बढ़िया! आपके ड्रिंक के लिए कुल $3.40 है। क्या मुझे अभी ऑर्डर देना चाहिए?
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	10	customer	Yes, please.	हां, जरुर
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	11	agent	the drink order has been placed. it'll be ready for pick up in 15 minutes. the receipt has been sent to your phone as well.	पीने का ऑर्डर दे दिया गया है। यह 15 मिनट में पिकअप के लिए तैयार हो जाएगा। रसीद आपके फोन पर भी भेज दी गई है।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	12	agent	could i help you with anything else today?	क्या मैं आज आपकी किसी और चीज में मदद कर सकता हूं?
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	13	customer	Nothing else today.	आज और कुछ नहीं।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	14	agent	great, hope you enjoy your drink.	बढ़िया, आशा है कि आप अपने ड्रिंक का आनंद लेंगे।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	15	agent	and have a lovely day.	और आपका दिन मंगलमय हो।
+dlg-123232f5-a22d-4d36-876a-f3f4d32720ab	16	customer	You, too. Thank you.	आप को भी। धन्यवाद।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	0	agent	hi.	हाय।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	1	agent	how can i help?	मैं आपकी मदद कैसे कर सकता हूँ?
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	2	customer	I would like one pizza large with Italian sausage and extra cheese thin crust.	मुझे इटालियन सॉसेज और एक्स्ट्रा चीज़ थिन क्रस्ट के साथ एक लार्ज पिज़्ज़ा चाहिए।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	3	customer	Bella Luna.	बेला लूना।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	4	agent	got it.	समझ गया।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	5	agent	is that all?	क्या यह सारा है?
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	6	customer	Yes.	हां
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	7	agent	you said you'd like 1 large pizza with italian sausage and extra cheese, with thin crust.	आपने कहा कि आप इतालवी सॉसेज के साथ 1 लार्ज पिज़्ज़ा और थिन क्रस्ट के साथ एक्स्ट्रा चीज़ चाहते हैं।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	8	agent	is that right?	क्या यह सही है?
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	9	customer	Yes.	हां
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	10	agent	$18 is the total for that order.	उस ऑर्डर के लिए कुल $18 है।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	11	customer	Thank you.	धन्यवाद।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	12	agent	would you like to order now?	क्या आप अभी ऑर्डर देना चाहेंगे?
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	13	customer	Yes.	हां
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	14	agent	Ok. I've placed your order at Bella Lunas and it should be ready for pick up in 25 minutes.	ठीक। मैंने आपका ऑर्डर बेला लूनाज़ को दे दिया है और यह 25 मिनट में पिकअप के लिए तैयार हो जाएगा।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	15	agent	anything else i can help with today?	मैं आज कुछ और चीजों के साथ मदद कर सकता हूँ?
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	16	customer	hey.	ङे।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	17	customer	That is all.	बस इतना ही।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	18	agent	awesome.	बहुत बढ़िया।
+dlg-1325a404-1c1b-47ac-8a98-c968919c0459	19	agent	you are set.	आप सेट हैं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	0	agent	hello, how can i assist you?	हैलो, मैं आपकी सहायता कैसे  कर सकता हूँ?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	1	customer	Yes, I'm looking for	हाँ, मैं ढूंढ रहा हूँ
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	2	customer	sit-down restaurant in San Francisco.	सैन फ्रांसिस्को में सिट-डाउन रेस्तरां।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	3	agent	sorry, i can't hear you well.	माफ करें, मैं आपको ठीक से सुन नहीं सकता।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	4	customer	I'm looking for a sit-down restaurant in San Francisco.	मैं सैन फ़्रांसिस्को में सिट-डाउन रेस्टोरेंट ढूंढ रहा हूं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	5	agent	sure, what kind of restaurant would you like to go?	ज़रूर, आप किस तरह के रेस्टोरेंट में जाना पसंद करेंगे?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	6	customer	Either seafood, Mexican or Chinese.	या तो सी फूड , मैक्सिकन या चाइनीज।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	7	agent	ok. give me a second while i search that for you.	ठीक है। मुझे एक सेकंड दें जबतक मैं इसे आपके लिए खोजता हूं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	8	agent	i found Tadich Grill, a Institution for fresh fish & classic cocktails with an old-school setting & a buzzy atmosphere. i also found Mission Chinese: Trendy crowds line up for the imaginative Chinese eats at this casual, nationally known destination.	मुझे तादीच ग्रिल, ताज़ी मछली का एक संस्थान और पुराने जमाने की सेटिंग और चहल-पहल वाले माहौल के साथ क्लासिक कॉकटेल मिला। मुझे मिशन चाइनीज भी मिला: इस आकस्मिक, राष्ट्रीय स्तर पर प्रसिद्ध गंतव्य पर कल्पनाशील चीनी खाने के लिए फैशनेबल भीड़।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	9	customer	How about a Chinese restaurant?	एक चाइनीज रेस्तरां के बारे में क्या खयाल है?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	10	customer	I Am sorry, I messed it up.	मुझे खेद है, मैंने गड़बड़ कर दिया।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	11	agent	ok, when would you like to book a table?	ठीक है, आप टेबल कब बुक करना चाहेंगे?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	12	agent	sure. i found Don Pistos: Lively exposed-brick setting for Mexican specialties & drinks plus a popular Sunday brunch.	ज़रूर। मुझे डॉन पिस्टोस मिला: मैक्सिकन विशिष्टताओं और पेय के साथ-साथ एक लोकप्रिय रविवार ब्रंच के लिए जीवंत उजागर-ईंट सेटिंग।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	13	customer	Are they open late?	क्या वे देर तक खुले रहते हैं?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	14	agent	all three close at 10pm.	तीनों रात 10 बजे बंद हो जाते हैं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	15	customer	What is the price range?	प्राइस रेंज क्या है?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	16	agent	they are all average priced.	वे सभी एवरेज प्राइस के हैं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	17	customer	Do they take reservations?	क्या वे रीजर्वेशन लेते हैं?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	18	agent	which restaurant would you like to book a table?	आप किस रेस्टोरेंट में टेबल बुक करना चाहेंगे?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	19	customer	Yes, the empty space.	हाँ, खाली जगह।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	20	agent	sure, when would you like to make this reservation?	ज़रूर, आप यह रीजर्वेशन कब करना चाहेंगे?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	21	customer	two people.	दो लोग।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	22	customer	tomorrow night at 7:00 p.m.	कल रात 7:00 बजे
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	23	agent	ok, you're all set for tomorrow night at 7pm at Don Pistos.	ठीक है, आप कल रात 7 बजे डॉन पिस्टोस में पूरी तरह तैयार हैं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	24	customer	Do they have rooms available?	क्या उनके पास कमरे उपलब्ध हैं?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	25	agent	no, they don't. would you like to cancel this reservation and try a different restaurant?	नहीं, उनके पास नहीं है। क्या आप इस रीजर्वेशन को कैंसल करना चाहते हैं और एक अलग रेस्तरां के लिए प्रयास करना चाहते हैं?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	26	customer	Well tell me about the Mission Chinese. Do they serve cocktails there?	मुझे मिशन चाइनीज के बारे में बताएं। क्या वे वहां कॉकटेल सर्व करते हैं?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	27	agent	yes, they do.	हाँ वे करते हैं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	28	agent	ok, same time?	ठीक है, उसी समय?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	29	customer	Yes. Do they have booths?	हां। क्या उनके पास बूथ हैं?
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	30	agent	yes, they have booths available.	हाँ, उनके पास बूथ उपलब्ध हैं।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	31	agent	ok then, tomorrow at 7pm for 2 people sitting in a booth at mission chinese.	ठीक है, तो कल शाम 7 बजे मिशन चाइनीज के बूथ में बैठे 2 लोगों के लिए।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	32	customer	Thank you.	धन्यवाद।
+dlg-17946c6b-85c1-475a-9313-2847f36d1c41	33	agent	you're welcome, bye.	शुक्रिया अलविदा।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	0	agent	Hi, how can I help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	1	customer	Okay. I need to make an appointment for my car at Intelligent Auto Imports.	ठीक है। मुझे इंटेलिजेंट ऑटो इम्पोर्ट्स पर अपनी कार के लिए अपॉइंटमेंट लेना है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	2	agent	Ok, can you please provide your name and number?	ठीक है, क्या आप अपना नाम और नंबर बता सकते हैं?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	3	customer	Yes, James Patton 916-555-4675.	हाँ, जेम्स पैटन 916-555-4675।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	4	agent	Sorry, I didn't get that number.	क्षमा करें, मुझे वह नंबर समझ नहीं आया।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	5	customer	916-555-4675	916-555-4675
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	6	agent	And how do you spell your first name?	और आप अपना फस्ट नेम कैसे स्पेल करते हैं?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	7	customer	A m o s.	ए एम ओ एस
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	8	agent	Ok, I am scheduling an appointment for Amos Burton, phone number 916-555-4675, correct?	ठीक है, मैं एमोस बर्टन, फोन नंबर 916-555-4675 के लिए अपॉइंटमेंट शेड्यूल कर रहा हूं, सही है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	9	customer	That's correct, and I'd like next Friday if possible.	यह सही है, और यदि संभव हो तो मैं अगले शुक्रवार को चाहूंगा।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	10	agent	Sure, I can check that for you, can you tell me what's wrong with your car?	ज़रूर, मैं इसे आपके लिए चेक कर सकता हूँ, क्या आप मुझे बता सकते हैं कि आपके कार में क्या खराबी है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	11	customer	Yeah, a bunch of the lights aren't working.	हाँ, लाइट का एक बंच काम नहीं कर रहा है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	12	agent	Interior or exterior lights?	इनटेरियर या एक्सटेरियर लाइट
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	13	customer	Exterior.	एक्सटेरियर
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	14	agent	Ok, you will need to get exterior lights replaced or is it an electrical problem?	ठीक है, आपको एक्सटेरियर लाइटें बदलनी हैं या यह इलैक्ट्रीकल समस्या है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	15	customer	Just replacement.	बस रिप्लेस करना है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	16	agent	Got it, and what is the year, make, and model of your car?	ठीक है, और आपकी कार का वर्ष, कब बनी और मॉडल क्या है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	17	customer	It's a 2009 BMW 325.	यह 2009 की बीएमडब्ल्यू 325 है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	18	agent	Ok and you said you wanted to schedule for next Friday, February 8th is that correct?	ठीक है और आपने कहा कि आप अगले शुक्रवार, 8 फरवरी को शेड्यूल करना चाहते हैं, क्या यह सही है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	19	customer	That's correct.	यह सही है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	20	agent	One moment while I check the shop's availability.	एक मीनट जबतक मैं दुकान की उपलब्धता की जाँच करता हूँ।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	21	agent	Just to let you know, there is a $89 service fee but it can be applied to the cost of repairs if you choose to go with them.	आपको बता दें कि $89 की सर्विस फीस है लेकिन यदि आप उनके साथ जाना चुनते हैं तो इसे रीपेयर की कॉस्ट पर लागू किया जा सकता है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	22	customer	That sounds fine.	यह बढ़िया समझ में आ रहा है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	23	agent	The shops policy is to bring the car in by 8:30 am and they will give you a call once the work is complete on your car, would that be ok with you?	शॉप्स की पॉलिसी सुबह 8:30 बजे तक कार लाने की है और आपकी कार पर काम पूरा होने के बाद वे आपको कॉल करेंगे, क्या यह आपके लिए ठीक रहेगा?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	24	customer	Yeah, that sounds good.	हाँ, यह ठीक लग रहा है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	25	agent	Ok, I have scheduled an appointment for next Friday February 8th at 8:30 am for your 2009 BMW 325 that needs some exterior lights replaced, is that correct?	ठीक है, मैंने आपके 2009 बीएमडब्ल्यू 325 के लिए अगले शुक्रवार 8 फरवरी को सुबह 8:30 बजे अपॉइंटमेंट शेड्यूल किया है, जिसमें कुछ एक्सटेरियर लाइटों को बदलने की आवश्यकता है, क्या यह सही है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	26	customer	Yep, that's all correct.	हाँ, यह सब सही है।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	27	agent	Do you know where the shop is located?	क्या आप जानते हैं कि दुकान कहाँ पर है?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	28	customer	Yeah, I'm familiar with its location.	हाँ, मैं इस स्थान से परिचित हूँ।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	29	agent	Great, can I help with anything else?	बहुत बढ़िया, क्या मैं किसी और चीज़ में मदद कर सकता हूँ?
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	30	customer	No, that will do it. Thanks.	नहीं, यह वो करेगा। धन्यवाद।
+dlg-1d6ab8c0-d5bb-4277-ba8d-289520942330	31	agent	Ok, have a nice day.	ठीक है आपका दिन शुभ हो।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	0	customer	I'd like to order two medium pizzas from Bella Luna, please.	मैं बेला लूना से दो मीडियम पिज्जा ऑर्डर करना चाहता हूं, प्लीज।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	1	agent	hi, how can I help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	2	customer	thick crust.	थिक क्रस्ट
+dlg-272c04e5-a836-44e5-97ae-29334835f111	3	customer	I would like a meat lover's with with bacon and jalapeños and olives, please.	मुझे एक मीट लवर के साथ बेकन और जलापेनोस और जैतून चाहिए, प्लीज।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	4	agent	sure, what kind of toppings would you like?	ज़रूर, आप किस तरह की टॉपिंग पसंद करेंगे?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	5	customer	For the other one.	दूसरे के लिए।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	6	agent	ok, and for the other?	ठीक है, और दूसरे के लिए?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	7	customer	Is there a pizza that has artichokes?	क्या कोई पिज्जा है जिसमें आर्टिचोक है?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	8	customer	Okay, I'll build my own custom pizza, please.	ठीक है, मैं अपना खुद का कस्टम पिज़्ज़ा बनाऊँगा, प्लीज।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	9	agent	the veggie lovers has artichokes in it or you can build your own custom pizza.	वेजी प्रेमियों के लिए इसमें आर्टिचोक हैं या आप अपना खुद का कस्टम पिज्जा बना सकते हैं।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	10	customer	artichokes, bacon.	आर्टिचोक, बेकन।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	11	agent	sure, what would you like?	ज़रूर, आप क्या पसंद करेंगे?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	12	customer	pineapple.	अनानास।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	13	customer	extra sauce.	एक्स्ट्रा सॉस।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	14	customer	With extra mushrooms, please.	एक्स्ट्रा मशरूम के साथ, प्लीज।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	15	customer	And cheese, and that will be all.	और चीज़, और वह सब होगा।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	16	customer	Sounds fantastic, thank you.	शानदार लग रहा है, धन्यवाद।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	17	agent	ok, you are ordering 2 medium thick crust pizzas, one veggie lovers with jalapenos and olives and 1 with artichokes, bacon, pineapple, and extra sauce, and extra mushrooms, is that correct?	ठीक है, आप 2 थिक मीडियम क्रस्ट पिज्जा ऑर्डर कर रहे हैं, एक वेजी प्रेमी जालापेनॉस और ऑलिव के साथ और 1 आर्टिचोक, बेकन, अनानस, और अतिरिक्त सॉस, और अतिरिक्त मशरूम के साथ, क्या यह सही है?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	18	customer	I'll pick that up, please.	मैं इसे उठा लूंगा, प्लीज।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	19	customer	Yes. Those are two medium thick crust, correct?	हां। वे दो मीडियम थिक क्रस्ट हैं, है ना?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	20	agent	great, your total will be $38, is that ok?	बहुत बढ़िया, आपका कुल $38 होगा, क्या यह ठीक है?
+dlg-272c04e5-a836-44e5-97ae-29334835f111	21	customer	All right, fantastic. Thank you so much.	ठीक है, शानदार। बहुत - बहुत धन्यवाद।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	22	agent	that's correct.	यह सही है।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	23	customer	Fantastic. Have a nice night, you're the best.	शानदार। आपकी रात अच्छे से कटे, आप सबसे अच्छे हैं।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	24	agent	ok, your receipt will be texted to you and your pizzas will be ready in 30 minutes.	ठीक है, आपकी रसीद आपको भेज दी जाएगी और 30 मिनट में आपका पिज्जा तैयार हो जाएगा।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	25	customer	Thanks. I will.	धन्यवाद। मे लूँगा।
+dlg-272c04e5-a836-44e5-97ae-29334835f111	26	agent	enjoy your pizzas.	अपने पिज्जा का आनंद लें।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	0	agent	hi, how can i help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	1	customer	Yeah, I need to order an Uber, please.	हाँ, मुझे एक उबेर ऑर्डर करना है, प्लीज।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	2	agent	sure, what is the pickup location?	ज़रूर, पिकअप लोकेशन क्या है?
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	3	customer	It's going to be 15 Main Street in New York City	यह न्यूयॉर्क शहर में 15 मेन स्ट्रीट होने जा रहा है
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	4	agent	where do you want to be dropped off?	आप कहाँ लेना चाहते हैं?
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	5	customer	the AMC Theater.	एएमसी थियेटर।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	6	agent	what kind of ride would you like?	आप किस तरह की सवारी करना चाहेंगे?
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	7	customer	We're going to need an UberX because cus we have six people. Or, maybe an UberXL I mean, sorry.	हमें एक उबरएक्स की आवश्यकता होगी क्योंकि हमारे पास छह लोग हैं। या, शायद एक उबरएक्सएल मेरा मतलब है, क्षमा करें।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	8	agent	sure, the fare estimate is $27.50. when would you like to be picked up?	निश्चित रूप से, किराया अनुमानतः $27.50 है। आप कब लिये जाना चाहेंगे?
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	9	customer	As soon as possible.	जितनी जल्दी हो सके।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	10	agent	ok, your driver will be there in 8 minutes.	ठीक है, आपका ड्राइवर 8 मिनट में वहाँ पहुँच जाएगा।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	11	customer	Thank you so much.	बहुत - बहुत धन्यवाद।
+dlg-286cebc7-0088-45bb-8cbd-1561468bcd9c	12	agent	you're welcome, bye!	आप का स्वागत है, अलविदा!
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	0	agent	hi, how can i help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	1	customer	Hi. I need to get my car repaired at Intelligent auto imports.	हाय। मुझे इंटेलिजेंट ऑटो इम्पोर्ट पर अपनी कार रीपेयर करानी है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	2	agent	ok, can you please provide your name and number?	ठीक है, क्या आप कृपया अपना नाम और नंबर बता सकते हैं?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	3	customer	My name is John Smith.	मेरा नाम जॉन स्मिथ है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	4	agent	and a good number to provide to the shop?	और दुकान को उपलब्ध कराने के लिए एक अच्छी संख्या?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	5	customer	555-555-5555.	555-555-5555.
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	6	agent	ok, we are scheduling an appointment for john smith, phone number 555-555-5555, is that correct?	ठीक है, हम जॉन स्मिथ के लिए अपॉइंटमेंट शेड्यूल कर रहे हैं, फ़ोन नंबर 555-555-5555, क्या यह सही है?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	7	customer	Yes.	हां।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	8	agent	great, what is the year, make, and model of your car?	बहुत बढ़िया, आपकी कार का वर्ष, कब बनी और मॉडल क्या है?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	9	customer	It is a 2010 Subaru Outback.	यह 2010 का सुबारू आउटबैक है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	10	agent	ok, what problems are you having with it?	ठीक है, आपको इससे क्या परेशानी हो रही है?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	11	customer	For some reason several lights are out in the car.	किसी कारण से कार में कई लाइटे जल जाती हैं।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	12	agent	ok, are those interior or exterior lights?	ठीक है, क्या वे इनटेरियर या एक्सटेरियर लाइट रोशनी हैं?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	13	customer	exterior lights.	एक्स्टेरियर लाइट
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	14	agent	got it, when would you like to schedule your appointment?	समझ गया, आप अपना अपॉइंटमेंट कब शेड्यूल करना चाहेंगे?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	15	customer	today at 3:00 p.m.	आज दोपहर 3:00 बजे
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	16	agent	let me check if they have availability.	मुझे चेक करने दें कि क्या उनके पास उपलब्धता है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	17	agent	ok, it looks like they have an opening at 3pm, i'll schedule your appointment now.	ठीक है, ऐसा लगता है कि दोपहर 3 बजे उनका उद्घाटन है, मैं अभी आपका अपॉइंटमेंट शेड्यूल करूँगा।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	18	customer	Okay.	ठीक है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	19	agent	just to let you know, there is an $89 inspection fee, but that can be applied to the cost of repairs if you choose to repair at the shop.	आपको बता दें, $89 इन्सपेक्शन फीस है, लेकिन यदि आप दुकान पर रीपेयर करना चुनते हैं तो इसे रीपेयर की कॉस्ट पर लागू किया जा सकता है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	20	customer	Okay.	ठीक है।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	21	agent	ok, i have scheduled an appointment for today at 3pm for your 2010 subaru outback that has some exterior lights out.	ठीक है, मैंने आपके 2010 सुबारू आउटबैक के लिए आज 3 बजे एक अपॉइंटमेंट शेड्यूल किया है जिसमें कुछ एक्सटेरियर लाइट हैं।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	22	agent	can i help you with anything else?	क्या मैं आपकी कुछ और चींजों से सहायता कर सकता हूँ?
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	23	customer	No.	नहीं।
+dlg-30166527-ea04-4697-9c20-e00c18d3106e	24	agent	ok, drive safe, and have a nice day.	ठीक है, सुरक्षित ड्राइव करें, और आपका दिन मंगलमय हो।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	0	agent	Hello, how can I assist you?	नमस्ते, मैं आपकी मदद कैसे कर सकता हूँ?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	1	customer	Order pizza from Bella Luna.	बेला लूना से पिज्जा ऑर्डर करें।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	2	agent	Sure, how many pizzas would you like?	ज़रूर, आप कितने पिज़्ज़ा पसंद करेंगे?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	3	customer	Three.	तीन
+dlg-311d4f4c-55ed-4771-9716-89539a373770	4	agent	Ok and what size?	ठीक है और किस आकार का?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	5	customer	Small.	स्माल।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	6	agent	What are the toppings?	टॉपिंग क्या हैं?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	7	customer	Meat Lovers for all.	सभी के लिए मीट लवर।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	8	agent	Got it. What kind of crust do you prefer?	समझ गया। आप किस तरह का क्रस्ट पसंद करते हैं?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	9	customer	Gluten-free crust.	ग्लूटेन-फ्री क्रस्ट
+dlg-311d4f4c-55ed-4771-9716-89539a373770	10	agent	Ok. Any special instructions?	ठीक है। कोई विशेष निर्देश?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	11	customer	No.	नहीं।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	12	agent	3 small pizzas. Meat Lovers, Gluten-free crust. Is this correct?	3 स्मॉल पिज्जा। मीट लवर, ग्लूटेन-फ्री क्रस्ट। क्या यह सही है?
+dlg-311d4f4c-55ed-4771-9716-89539a373770	13	customer	Yes.	हां।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	14	agent	Great. Your total is $35.89.	बहुत बढ़िया। आपका कुल $35.89 है।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	15	customer	Okay.	ठीक है।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	16	agent	Your pizzas will be ready for pickup at Bela Luna's soon.	आपका पिज़्ज़ा बेला लूना में जल्द ही पिकअप के लिए तैयार हो जाएगा।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	17	customer	Okay.	ठीक है।
+dlg-311d4f4c-55ed-4771-9716-89539a373770	18	agent	Enjoy. Bye.	आनंद लें। अलविदा।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	0	agent	Hi there! How can I help?	नमस्ते! मैं आपकी मदद कैसे कर सकता हूँ?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	1	customer	Hi, how are you?	हाय, आप कैसे हैं?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	2	agent	great and you?	बहुत अच्छा और आप?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	3	customer	I'm wonderful. I need to get picked up from Greenwood Mall, please.	मैं बहुत बढ़िया हूँ। मुझे ग्रीनवुड मॉल से पिकअप करना है, प्लीज।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	4	customer	in Indianapolis, Indiana or Greenwood, Indiana.	इंडियानापोलिस, इंडियाना या ग्रीनवुड, इंडियाना में।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	5	agent	OKay give me a moment.	ठीक है मुझे एक पल दो।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	6	agent	got it! and where are you headed?	समझ गया! और आप कहाँ जा रहे है?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	7	customer	I would like to go to the Fashion Mall in Indianapolis.	मैं इंडियानापोलिस में फैशन मॉल जाना चाहूंगा।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	8	agent	Alright! did you need the ride, right now?	ठीक है! क्या आपको अभी सवारी की ज़रूरत है?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	9	customer	Yes, as soon as possible.	हाँ, जितनी जल्दी हो सके।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	10	agent	okay! got it! how many people will be traveling with you?	ठीक! समझ गया! आपके साथ कितने लोग यात्रा कर रहे होंगे?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	11	customer	That's for six people, please. My preference for ride type is the XL Uber.	यह छह लोगों के लिए है, प्लीज। सवारी टाइप के लिए मेरी प्राथमिकता एक्सल उबर है।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	12	agent	6, okay great! let me catch you the rates really quickly.	6, ठीक है बहुत बढ़िया! मुझे आपको वास्तव में जल्दी से रेट बताने दे।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	13	agent	The rate I found for an UberXL will be $45.66.	उबरएक्सएल के लिए मुझे जो रेट मिला वह $45.66 होगा।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	14	customer	Well, that sounds fantastic.	अच्छा, यह शानदार लगता है।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	15	agent	Great! shall i request the ride, right now?	बहुत बढ़िया! क्या मैं अभी सवारी का अनुरोध करूँ?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	16	customer	Yes.	हां।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	17	agent	Okay, one moment please.	ठीक है, एक मीनट प्लीज।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	18	agent	Alright, your driver has been notified.	ठीक है, आपके ड्राइवर को सूचित कर दिया गया है।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	19	customer	That's fantastic.	यह बढ़िया है।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	20	agent	They should arrive within 10 minutes.	उन्हें 10 मिनट के अंदर पहुंचना चाहिए।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	21	customer	Fantastic. What's the estimated duration of the trip?	शानदार। यात्रा की अनुमानित अवधि क्या है?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	22	agent	The trip is expected to take roughly 55 min to an hour.	यात्रा में लगभग 55 मिनट से एक घंटे तक का समय लगने की उम्मीद है।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	23	customer	Okay, that's fantastic. Thank you.	ठीक है, यह शानदार है। धन्यवाद।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	24	agent	You're very welcome.	आपका बहुत स्वागत है।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	25	customer	No, that's all. Happy Valentines Day.	ऩहीं, बस इतना ही। वैलेंटाइन्स डे कि शुभ कामना।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	26	agent	Anything else I can help you with?	मैं आपकी और कुछ मदद कर सकता हूँ?
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	27	agent	Thank you.	धन्यवाद।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	28	customer	Thank you, have a wonderful day.	धन्यवाद, आपका दिन मंगलमय हो।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	29	agent	to you as well.	आपका भी।
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	30	agent	thanks! you too!	आप को भी, धन्यवाद!
+dlg-3ecb783d-c211-46a3-a3b1-04cf07d20093	31	agent	byebye.	अलविदा।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	0	agent	Hi there how can I help you?	नमस्ते मैं आपकी कैसे मदद कर सकता हूँ?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	1	agent	Hi there how can I help you?	नमस्ते मैं आपकी कैसे मदद कर सकता हूँ?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	2	customer	I want to order a pizza.	मुझे पिज्जा ऑर्डर करना है।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	3	customer	I want to order a pizza.	मुझे पिज्जा ऑर्डर करना है।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	4	agent	okay how many pizzas?	ठीक है कितना पिज्जा?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	5	agent	okay how many pizzas?	ठीक है कितना पिज्जा?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	6	customer	three pizza.	तीन पिज्जा
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	7	customer	three pizza.	तीन पिज्जा
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	8	agent	and what size?	और कितने साइज का?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	9	agent	and what size?	और कितने साइज का?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	10	customer	medium size.	मीडियम साइज
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	11	customer	medium size.	मीडियम साइज
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	12	customer	Yeah.	याह।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	13	customer	Yeah.	याह।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	14	agent	what kind of pizzas do you want?	आप किस तरह का पिज्जा चाहते हैं?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	15	agent	what kind of pizzas do you want?	आप किस तरह का पिज्जा चाहते हैं?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	16	customer	a chicken barbecue.	चिकन बारबेक्यू।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	17	customer	a chicken barbecue.	चिकन बारबेक्यू।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	18	agent	okay so that's 3 medium chicken bbq pizzas.	ठीक है, 3 मीडियम चिकन बारबेक्यू पिज्जा।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	19	agent	okay so that's 3 medium chicken bbq pizzas.	ठीक है, 3 मीडियम चिकन बारबेक्यू पिज्जा।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	20	agent	anything else?	और कुछ?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	21	agent	anything else?	और कुछ?
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	22	customer	I need 10 Crest.	मुझे 10 क्रेस्ट चाहिए।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	23	customer	I need thin Crust.	मुझे थिन क्रस्ट चाहिए।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	24	agent	got it. with the thin crust that will be $33.77 okay.	समझा। थिन क्रस्ट के साथ $33.77 ठीक है।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	25	agent	got it. with the thin crust that will be $33.77 okay.	समझा। थिन क्रस्ट के साथ $33.77 ठीक है।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	26	customer	Okay.	ठीक है।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	27	customer	Okay.	ठीक है।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	28	agent	great. it'll be ready for pickup in 30 minutes and you'll get your receipt via mobile.	बहुत बढ़िया। यह 30 मिनट में पिकअप के लिए तैयार हो जाएगा और आपको अपनी रसीद मोबाइल के माध्यम से मिल जाएगी।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	29	agent	great. it'll be ready for pickup in 30 minutes and you'll get your receipt via mobile.	बहुत बढ़िया। यह 30 मिनट में पिकअप के लिए तैयार हो जाएगा और आपको अपनी रसीद मोबाइल के माध्यम से मिल जाएगी।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	30	customer	Okay. Thank you very much. Have a nice day.	ठीक है। आपका बहुत बहुत धन्यवाद। आपका दिन शुभ हो।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	31	customer	Okay. Thank you very much. Have a nice day.	ठीक है। आपका बहुत बहुत धन्यवाद। आपका दिन शुभ हो।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	32	agent	you too, bye.	आपका भी अलविदा।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	33	agent	you too, bye.	आपका भी अलविदा।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	34	customer	Bye.	अलविदा।
+dlg-47f64bcb-cd1c-47e8-9116-7f998ff5ff47	35	customer	Bye.	अलविदा।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	0	agent	Hi there! What can I do for you?	हाय! मैं आपके लिए क्या कर सकता है?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	1	customer	Hello. I want to book a taxi for a ride.	हैलो। मैं एक सवारी के लिए एक टैक्सी बुक करना चाहता हूँ।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	2	agent	Okay! great	ठीक है! बहुत बढ़िया।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	3	customer	Yeah.	याह।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	4	agent	where are you heading?	आप कहाँ जा रहे हो?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	5	customer	I want to got to the a certain mall.	मैं एक सर्टेन मॉल में जाना चाहता हूँ।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	6	agent	okay, your in Dallas and want to go to the shopping mall, is that correct?	ठीक है, आप डलास में हैं और शॉपिंग मॉल जाना चाहते हैं, क्या यह सही है?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	7	customer	Yeah, that's right.	हाँ, सही है।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	8	agent	Okay! thank you!	ठीक है! धन्यवाद!
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	9	customer	Yeah.	याह।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	10	customer	Ok Google.	ठीक है गूगल।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	11	agent	and where in dallas may we pick you up?	और डलास में हम आपको कहां से पिक कर सकते हैं?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	12	agent	did you say, "Sport venue?"	क्या आपने कहा, "स्पोर्ट्स वैन्यू?"
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	13	customer	Yeah.	याह।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	14	agent	Okay, I can't seem to find that location. can you give me the address?	ठीक है, मुझे वह स्थान नहीं मिल रहा है। क्या आप मुझे पता दे सकते हैं?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	15	customer	I'm from Delos Delos sport venue from Delos.	मैं डेलोस से हूं डेलोस से डेलोस स्पोर्ट्स वैन्यू।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	16	agent	Can you give me the address of the Sport venue?	क्या आप मुझे स्पोर्ट्स वैन्यू का पता दे सकते हैं?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	17	agent	You you mean the AT&T Stadium in Dallas?	आपका मतलब डलास में एटी एंड टी स्टेडियम से है?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	18	customer	Yeah. Yeah. That's right.	हां। हां। ये सही है।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	19	agent	Okay, and you're heading to the mall form there?	ठीक है, और आप वहाँ मॉल फॉर्म में जा रहे हैं?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	20	customer	Can you repeat it?	क्या आप इसे दोहरा सकते हैं?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	21	agent	you're heading to the mall from there?	आप वहाँ से मॉल जा रहे हैं?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	22	customer	Yeah, that's right.	हाँ यह सही है।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	23	agent	okay one moment.	ठीक है एक मीनट।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	24	customer	Yeah, sure.	हां यकीनन।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	25	agent	Would you like to go to the West Village mall on Mckinney Ave?	क्या आप मैकिनी एव पर वेस्ट विलेज मॉल जाना चाहेंगे?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	26	agent	OKay! great.	ठीक है। बहुत बढ़िया।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	27	customer	Yeah.	याह
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	28	agent	and how many riders will be in the Uber with you?	और आपके साथ उबर में कितने राइडर होंगे?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	29	agent	Okay!	ठीक है।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	30	customer	Okay, cool.	ठीक है। कूल।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	31	agent	2 passengers means you can either go with the UberX or the UberPool.	2 यात्रियों का मतलब है कि आप या तो उबरएक्स या उबरपूल से जा सकते हैं।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	32	agent	which do you prefer?	आप कौन सा पसंद करेंगे?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	33	customer	What roll is better?	कौन सा रोल बेहतर है?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	34	agent	Uberpool will safe you roughly 5 dollars.	उबरपूल आपके लगभग 5 डॉलर सुरक्षित करेगा।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	35	customer	Yeah, that does okay for me.	हाँ, यह मेरे लिए ठीक है।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	36	customer	I want to book a ride.	मैं एक सवारी बुक करना चाहता हूँ।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	37	agent	Okay! i can do that.	ठीक है! मैं यह कर सकता हूँ।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	38	agent	an uberpool for 2 people from the AT&T stadium to the West Village mall will be $17.	एटी एंड टी स्टेडियम से वेस्ट विलेज मॉल तक 2 लोगों के लिए एक उबरपूल $17 का होगा।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	39	agent	is that okay?	क्या ये ठीक है?
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	40	agent	Great!	बहुत बढ़िया!
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	41	customer	Can you book a ride for me? Yeah, thank you.	क्या आप मेरे लिए राइड बुक कर सकते हैं? हां धन्यवाद।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	42	agent	Your ride has been scheduled. You may check the status on your mobile device.	आपकी सवारी शेड्यूल्ड कर दी गई है। आप अपने मोबाइल डिवाइस पर स्थिति की जांच कर सकते हैं।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	43	agent	You're very welcome!	आपका बहुत स्वागत है!
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	44	customer	Have a nice day.	आपका दिन शुभ हो।
+dlg-481393f6-4bac-4e3a-9226-004f221ecda7	45	agent	Have a safe trip.	यात्रा सुरक्षित हो।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	0	agent	HI, how can i help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	1	customer	Hi, could you help me with ordering from Starbucks?	हाय, क्या आप स्टारबक्स से ऑर्डर करने में मेरी मदद कर सकते हैं?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	2	agent	sure, what would you like to order?	ज़रूर, आप क्या ऑर्डर करना चाहेंगे?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	3	customer	I would like a Carame Macchiato.	मुझे एक कारमेल मैकचीआटो चाहिए.
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	4	agent	ok, would you like to add milk?	ठीक है, क्या आप दूध डालना चाहेंगे?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	5	customer	Yes.	हां।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	6	agent	what kind of milk would you like?	आप किस तरह का दूध पसंद करेंगे?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	7	customer	2%.	2 परसेन्ट
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	8	agent	ok, what size would you like to order?	ठीक है, आप किस साइज का ऑर्डर देना चाहेंगे?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	9	customer	A grande, please.	एक ग्रांड, प्लीज
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	10	agent	sure, which store would you like to pick up from?	ज़रूर, आप किस स्टोर से लेना चाहेंगे?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	11	customer	The one on Old York Road in Jenkintown, Pennsylvania.	जेनकिंटाउन, पेनसिल्वेनिया में ओल्ड यॉर्क रोड पर है एक।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	12	agent	ok let me place your order.	ठीक है, मुझे आपका ऑर्डर देने दें।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	13	customer	Thank you.	धन्यवाद।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	14	agent	grande, caramel macchiato with 2% milk, from old york road starbucks, is that correct?	ओल्ड यॉर्क रोड स्टारबक्स से 2% दूध के साथ ग्रांड, कारमेल मैकचीटो, क्या यह सही है?
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	15	customer	Correct.	सही।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	16	agent	ok, you're all set, your receipt will be texted to you.	ठीक है, आप पूरी तरह से तैयार हैं, आपकी रसीद आपको भेज दी जाएगी।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	17	customer	Thank you so much. I appreciate it.	बहुत - बहुत धन्यवाद। मैं इसकी सराहना करता हूं।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	18	agent	your welcome, enjoy.	आपका स्वागत है, आनंद लें।
+dlg-4b2edcfb-7fa5-4a93-a82e-8a6637fb5d7a	19	customer	I will.	मे लूँगा।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	0	agent	hi, how can i help you?	हाय, मैं आपकी मदद कैसे कर सकता हूं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	1	customer	I'm looking for a restaurant.	मैं एक रेस्टोरेंट ढूंढ रहा हूं।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	2	agent	sure, did you want to make a reservation?	ज़रूर, क्या आप रीजर्वेशन करना चाहते हैं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	3	customer	Yes.	हां।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	4	agent	and what city did you want to make a reservation in?	और आप किस शहर में रीजर्वेशन करना चाहते हैं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	5	customer	San Francisco.	सैन फ्रांसिस्को।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	6	agent	and what type of food did you want?	और आप किस तरह का खाना चाहते हैं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	7	customer	Indian food.	भारतीय भोजन।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	8	agent	Did you have any restaurant preferences? For example, Outdoor seating, full bar, etc.	क्या आपकी कोई रेस्तरां प्रीफरेंसेज़ थीं? उदाहरण के लिए, आउटडोर सीटिंग, फुल बार, आदि।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	9	customer	Sit-down.	बैठ जाओ।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	10	agent	Any other criteria?	कोई और क्राइटेरिया?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	11	customer	inexpensive.	सस्ता।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	12	agent	ok.	ठीक है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	13	agent	let me take a look.	मुझे देखने दो।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	14	agent	I found a few options. First is called Ritu. Indian soul food lunches & daily dinner specials offered in a contemporary neighborhood setting.	मुझे कुछ विकल्प मिले। पहले को रितु कहा जाता है। भारतीय सोल फ़ूड लंच और रोज़ का डिनर स्पेशल पड़ोस के आधुनिक माहौल में पेश किया जाता है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	15	customer	What was the first one?	पहला क्या था?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	16	agent	Second is called Tara Indian cuisine. Snug Indian cafe offering traditional eats in an intimate setting with traditional decor touches.	दूसरा तारा भारतीय व्यंजन कहलाता है। आरामदायक भारतीय कैफ़े में पारंपरिक सजावट के साथ एक इन्टिमेट सेटिंग में पारंपरिक भोजन परोसा जाता है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	17	agent	do either sound appealing to you?	क्या दोनों में से कोई भी आपको अपीलिंग लगता है?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	18	agent	First is called Ritu.	पहले को रितु कहा जाता है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	19	customer	Does it have a full bar?	क्या इसमें एक फुल बार है?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	20	agent	no, ritu does not have a full bar but they do have wine and beer options.	नहीं, रितु में फुल बार नहीं है लेकिन उनके पास शराब और बियर विकल्प हैं।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	21	customer	Do they take reservations?	क्या वे आरक्षण लेते हैं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	22	agent	yes, ritu takes reservations.	हाँ, रितु रीजर्वेशन लेती है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	23	customer	I'll take Ritu.	मैं रितु लूंगा।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	24	agent	Got it.	समझ गया।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	25	agent	and when did you want a reservation?	और आप आरक्षण कब चाहते हैं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	26	customer	January 26th at 6:00 p.m.	26 जनवरी शाम 6:00 बजे।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	27	agent	for how many people?	कितने लोगों के लिए?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	28	customer	Three people.	तीन लोग।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	29	customer	and an outdoor table.	और एक आउटडोर टेबल।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	30	agent	An outdoor table on January 26th at 6pm for 3 people is available at RItu's.	रलटूज़ पर 26 जनवरी को शाम 6 बजे 3 लोगों के लिए एक आउटडोर टेबल उपलब्ध है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	31	customer	Yes, I'll take it.	हाँ, मैं इसे लूँगा।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	32	agent	would you like me to book this now?	क्या आप चाहते हैं कि मैं इसे अभी बुक करूं?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	33	agent	you're all set.	आपका सब सेट है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	34	customer	Thank you.	धन्यवाद।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	35	agent	anything else i can help with?	मैं कुछ और मदद कर सकता हूँ?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	36	customer	What are the What's the reservation date again?	दुबारा से रीजर्वेशन की तारीख क्या है?
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	37	agent	Your reservation is for saturday January 26th.	आपका रीजर्वेशन शनिवार 26 जनवरी के लिए है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	38	customer	Okay, thanks.	ठीक है धन्यवाद।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	39	agent	at 6pm.	शाम 6 बजे।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	40	agent	you're welcome.	आपका स्वागत है।
+dlg-4e06cbb9-8607-4157-921f-785fb206d28b	41	customer	That's it.	बस हो गया।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	0	agent	hi, how can i assist you?	हाय, मैं आपकी कैसे सहायता कर सकता हूँ?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	1	customer	I am looking for a restaurant in San Francisco.	मैं सैन फ़्रांसिस्को में एक रेस्टोरेंट ढूँढ रहा हूँ।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	2	customer	new restaurants in San Francisco Yes.	सैन फ्रांसिस्को में नए रेस्तरां हाँ।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	3	agent	sure, did you want to be making a reservation?	ज़रूर, क्या आप रीज़र्वेशन करना चाहते हैं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	4	agent	ok what type of food.	ठीक है किस तरह का खाना।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	5	agent	did you want?	क्या आप चाहते हैं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	6	customer	I'd like an Italian food restaurant.	मुझे एक इटैलियन फ़ूड रेस्तरां चाहिए।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	7	agent	Did you have any restaurant preferences? For example, Outdoor seating, full bar, etc.	क्या आपकी कोई रेस्तरां प्राथमिकताएं थीं? उदाहरण के लिए, आउटडोर सीटिंग, फुल बार, आदि।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	8	customer	Yes, I'd like a restaurant that has sorts of alcohol, preferably wine, has outdoor sitting, and live music.	हां, मुझे एक ऐसा रेस्तरां चाहिए जिसमें शराब, विशेषतः शराब, बाहर बैठने की जगह और लाइव म्यूजिक हो।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	9	agent	I found a few options. First is a Mano. Buzzy neighborhood spot offering housemade pasta, pizza & Italian wine in spacious environs.	मुझे कुछ विकल्प मिले। पहले एक मानो है। घर का बना पास्ता, पिज़्ज़ा और इटैलियन वाइन वाला चहल-पहल भरा इलाका है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	10	agent	Second is called Roma Antica. Welcoming neighborhood spot serving modern Italian eats & wine in petite digs with marble accents.	दूसरे को रोमा एंटिका कहा जाता है। नेबरहूड का वेलकम करने वाला स्थान, जहां मार्बल लहजे वाली खूबसूरत खुदाई में आधुनिक इटैलियन भोजन और वाइन परोसी जाती है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	11	agent	Do either of these sound good to you?	क्या इनमें से कोई भी आपको अच्छा लगता है?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	12	customer	Yes. The second one, do they have live music? And what is modern Italian food mean?	हां। दूसरा, क्या उनके पास लाइव म्यूजिक है? और आधुनिक इतालवी भोजन का क्या अर्थ है?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	13	agent	Yes, Roma Antica has live music on Sunday nights.	जी हां, रोमा एंटिका का रविवार की रात लाइव म्यूजिक है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	14	customer	Okay, and what is modern Italian food?	ठीक है, और आधुनिक इतालवी भोजन क्या है?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	15	agent	you can check the menu online for specific details about modern italian food.	आप आधुनिक इतालवी भोजन के बारे में स्पेसिफिक डीटेल्स के लिए ऑनलाइन मेनू देख सकते हैं।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	16	customer	Okay. And for the first one, you had mentioned pizza. Do they serve Is it just a pizza place, or do they have like pasta, seafood Italian food, too?	ठीक है। और पहले वाले के लिए आपने पिज्जा मेंन्शन किया था। क्या वे सर्व करते हैं क्या यह सिर्फ एक पिज्जा प्लेस है, या क्या उन्हें पास्ता, सीफूड इतालवी भोजन भी पसंद है?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	17	agent	A Mano has a wide variety in their menu, including pizza but not limited to pizza.	मानो के मेनू में पिज़्ज़ा सहित एक वाइड वेराइटी है, लेकिन पिज़्ज़ा तक सीमित नहीं है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	18	customer	Okay, great. I think I'll make a reservation for the second one.	ठीक है बहुत बढ़िया। मुझे लगता है कि मैं दूसरे के लिए आरक्षण करूंगा।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	19	agent	Roma Antica it is.	यह रोमा एंटिका है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	20	agent	and when do you want the reservation?	और आप रिज़र्वेशन कब चाहते हैं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	21	customer	How about Sunday, January 27th?	27 जनवरी रविवार को कैसा रहेगा?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	22	agent	what time did you want to go there?	आप वहां कितने बजे जाना चाहते हैं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	23	customer	8:00 p.m.	शाम के 8:00 बजे।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	24	agent	and for how many people?	और कितने लोगों के लिए?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	25	customer	seven.	सात।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	26	agent	Roma Antica for Sunday January 27th at 8pm for 7 people is available.	रोमा एंटिका रविवार 27 जनवरी को रात 8 बजे 7 लोगों के लिए उपलब्ध है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	27	agent	would you like me to book this now?	क्या आप चाहते हैं कि मैं इसे अभी बुक करूं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	28	customer	Yes, but also can you give us a reservation for a seat outside?	हाँ, लेकिन क्या आप हमें बाहर की सीट के लिए भी रिज़र्वेशन दे सकते हैं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	29	agent	sure, let me modify that reservation.	ज़रूर, मुझे उस रीजर्वेशन को मोडीफाई करने दें।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	30	agent	Roma Antica for Sunday January 27th at 8pm for 7 people outside seating.	रोमा एंटिका रविवार 27 जनवरी को रात 8 बजे बाहर बैठने वाले 7 लोगों के लिए।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	31	agent	would you like me to book this now?	क्या आप चाहते हैं कि मैं इसे अभी बुक करूं?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	32	customer	Yes, please.	हां, प्लीज।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	33	agent	cool, i've booked your reservation for you.	बढ़िया, मैंने आपके लिए आपका रिज़र्वेशन बुक कर लिया है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	34	agent	you're all set.	आपका सब सेट है।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	35	agent	anything else i can help you with?	मैं आपकी और कुछ मदद कर सकता हूँ?
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	36	customer	Oh, that's it. Thanks.	ओह, बस इतना ही। धन्यवाद।
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	37	agent	cool.	कूल
+dlg-508f4cbe-eef8-4f2b-8267-cd6f0ee9f13d	38	agent	you are welcome.	आपका स्वागत हैं।
