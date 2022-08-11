@@ -369,3 +369,6 @@ cat $OUTFILENAME.en | sacrebleu $DATA_DIR/test.en  -m bleu ter
 python scripts/user_divide.py $DATA_DIR test.en test.speaker.txt $OUTFILENAME.en customer
 cat $OUTFILENAME.en.customer | sacrebleu $DATA_DIR/customer.en -m bleu ter
 ```
+
+# Note
+Some of the contents (inclduing datasets) are subject to copyright. Please refer to their terms and conditions before using them.
