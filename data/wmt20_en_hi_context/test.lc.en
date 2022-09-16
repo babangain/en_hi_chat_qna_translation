@@ -1,0 +1,502 @@
+hello, how can i help you?
+hi. i'm trying to buy movie tickets at the amc houston 8 in houston, texas.
+i was hoping you could help me place that order.
+sure, i can help you with that for sure. what did you want to see?
+glass.
+and did you want to watch today?
+yes, please.
+and two tickets. two tickets to the 7:00 p.m.
+there's showing of glass at 4pm, 7pm, and 10pm. do any of these times work for you.
+<context> there's showing of glass at 4pm, 7pm, and 10pm. do any of these times work for you. <end> sure, for 2 tickets to the 7pm showing it'll be $24.
+yeah, go ahead.
+should i process your payment now.
+<context> should i process your payment now. <end> you got it. 2 tickets to see glass at amc houston 8 at 7pm has been purchased. the tickets will be sent to your mobile device shortly.
+<context> should i process your payment now. you got it. 2 tickets to see glass at amc houston 8 at 7pm has been purchased. the tickets will be sent to your mobile device shortly. <end> did you need anything else?
+i think that's it.
+awesome, enjoy the movie.
+thank you.
+hi how are you?
+good. how are you?
+great, thanks for asking, how can i help you?
+could you help me with a place to find lunch in sacramento?
+sure, what part of town are you?
+i'm inside arden care mall.
+and did you have any dining preferences?
+i'm not too picky, but i don't want anything that is too expensive. it doesn't have to be too cheap either. just nothing that is super expensive. and also, nothing that requires
+like a fancy dress.
+and also, i don't want it to be too far away from the mall where i am now, so maybe within 10 mi.
+got it. and what kind of food would you like to eat?
+how about seafood?
+lets see what we can do. one moment while i find a few options.
+<context> lets see what we can do. one moment while i find a few options. <end> so the first that came to mind is mikuni, local japanese chain serving sushi, small plates & hot entrees in a stylish space. then there's red lobster, a lively chain restaurant serving american seafood standards amid new england-themed decor.
+could you tell me the price range of both restaurants?
+both are fairly priced at 10-20 dollars a meal.
+okay, great. and could you tell me what the customer rating is for both restaurants?
+red lobster is a 4.0 while mikuni is 4.3 stars.
+okay. i think i'm interested. could you tell me what their phone number is?
+sure that's (916) 564-2114.
+okay, great. thank you so much for your help and figuring out a restaurant.
+of course, it was my pleasure. i hope you enjoy it.
+thanks, i'm sure i will.
+take care now, have a great day, bye.
+thanks.
+how can i help you?
+hi. i'm looking to book some movie tickets.
+okay what film did you want?
+glass.
+that's really popular.
+<context> that's really popular. <end> what time?
+in the afternoon today.
+whittier, california.
+and did you have a city in mind?
+<context> and did you have a city in mind? <end> is 3:55 too early for you?
+no, that's fine.
+okay how many tickets will you need?
+three.
+great. while i'm booking that did you need any other info?
+yeah, could you tell me who directed the movie?
+m night shyamalan.
+okay.
+go ahead and book the tickets.
+so it looks like the 3:55 showing is sold out. i can cancel or book a different showtime.
+book a different show time.
+does 4:50 work for you?
+is 550 well for you? yes.
+alright, that's going to be 4 tickets to the starlight whittier village cinemas. tickets arrive via mobile and it costs $30.33.
+okay, sounds good.
+have a great time at the movies.
+thank you.
+hi. how's it going?
+hi, how can i help you?
+<context> hi, how can i help you? <end> it's going great. how are you?
+i'm great. i'd like to order three medium pizzas from belluno, please.
+great to hear. sure, let's do it. what did you want on those 3 medium pizzas?
+i would like to know does does bone have good cheese?
+yes, bella luna has goat cheese.
+okay, i'd like to have goat cheese, cheddar cheese, arty chips, and bacon.
+did you want those toppings on all 3 pizzas?
+<context> did you want those toppings on all 3 pizzas? <end> got it, and what did you want for the other two?
+does bella luna have shrimp?
+no, unfortunately they do not have shrimp.
+all right, i will all right, i would like to have on on this pizza i would like extra mushrooms, cheddar cheese.
+extra bacon.
+and barbecue sauce, please.
+got it. and what did you want on the third?
+i would like to have.
+do they have a mexican-style pizza?
+no, unfortunately they do not.
+k, one moment.
+what does the vegetarian pizza what does the veggie lover's pizza have on it?
+veggie lovers has green peppers, mushrooms, olives, and sun dried tomatoes.
+okay, i will i will do that and i'll take extra cheese and all of the pizzas, please. and i'll add oreo chocs to the veggie lovers.
+let me make sure i got the order down correctly before submitting. 3 medium pizzas, 1 with goat cheese, feta cheese, artichokes and bacon, 1 with extra mushrooms, cheddar cheese, extra bacon, and bbq sauce. and 1 veggie lovers and add artichokes. all pizzas with extra cheese.
+<context> let me make sure i got the order down correctly before submitting. 3 medium pizzas, 1 with goat cheese, feta cheese, artichokes and bacon, 1 with extra mushrooms, cheddar cheese, extra bacon, and bbq sauce. and 1 veggie lovers and add artichokes. all pizzas with extra cheese. <end> is that correct?
+that's correct, thank you.
+$56.55 is the total. did you want me to place the order now?
+yes, please.
+ok. i've submitted the order. it'll be ready for pick up in 35 mins.
+<context> ok. i've submitted the order. it'll be ready for pick up in 35 mins. <end> did you need help with anything else?
+that would be all. thank you so much for your help.
+you are very welcome.
+hi, how can i help you?
+hi assistant. i would like to order a peet's cafe mocha.
+sure, which peet's should i place the order at?
+i'm located in fort worth, texas.
+got it. what size did you want the cafe mocha?
+i'd like a medium, like 2% milk, and extra sugar, and whip cream.
+coming right up. so you said you want a medium cafe mocha with 2% milk and extra sugar and whipped cream from peet's in fort worth texas.
+<context> coming right up. so you said you want a medium cafe mocha with 2% milk and extra sugar and whipped cream from peet's in fort worth texas. <end> did i get that right?
+yes, you did.
+awesome! the total for your drink is $3.40. should i place the order now?
+yes, please.
+the drink order has been placed. it'll be ready for pick up in 15 minutes. the receipt has been sent to your phone as well.
+<context> the drink order has been placed. it'll be ready for pick up in 15 minutes. the receipt has been sent to your phone as well. <end> could i help you with anything else today?
+nothing else today.
+great, hope you enjoy your drink.
+<context> great, hope you enjoy your drink. <end> and have a lovely day.
+you, too. thank you.
+hi.
+<context> hi. <end> how can i help?
+i would like one pizza large with italian sausage and extra cheese thin crust.
+bella luna.
+got it.
+<context> got it. <end> is that all?
+yes.
+you said you'd like 1 large pizza with italian sausage and extra cheese, with thin crust.
+<context> you said you'd like 1 large pizza with italian sausage and extra cheese, with thin crust. <end> is that right?
+yes.
+$18 is the total for that order.
+thank you.
+would you like to order now?
+yes.
+ok. i've placed your order at bella lunas and it should be ready for pick up in 25 minutes.
+<context> ok. i've placed your order at bella lunas and it should be ready for pick up in 25 minutes. <end> anything else i can help with today?
+hey.
+that is all.
+awesome.
+<context> awesome. <end> you are set.
+hello, how can i assist you?
+yes, i'm looking for
+sit-down restaurant in san francisco.
+sorry, i can't hear you well.
+i'm looking for a sit-down restaurant in san francisco.
+sure, what kind of restaurant would you like to go?
+either seafood, mexican or chinese.
+ok. give me a second while i search that for you.
+<context> ok. give me a second while i search that for you. <end> i found tadich grill, a institution for fresh fish & classic cocktails with an old-school setting & a buzzy atmosphere. i also found mission chinese: trendy crowds line up for the imaginative chinese eats at this casual, nationally known destination.
+how about a chinese restaurant?
+i am sorry, i messed it up.
+ok, when would you like to book a table?
+<context> ok, when would you like to book a table? <end> sure. i found don pistos: lively exposed-brick setting for mexican specialties & drinks plus a popular sunday brunch.
+are they open late?
+all three close at 10pm.
+what is the price range?
+they are all average priced.
+do they take reservations?
+which restaurant would you like to book a table?
+yes, the empty space.
+sure, when would you like to make this reservation?
+two people.
+tomorrow night at 7:00 p.m.
+ok, you're all set for tomorrow night at 7pm at don pistos.
+do they have rooms available?
+no, they don't. would you like to cancel this reservation and try a different restaurant?
+well tell me about the mission chinese. do they serve cocktails there?
+yes, they do.
+<context> yes, they do. <end> ok, same time?
+yes. do they have booths?
+yes, they have booths available.
+<context> yes, they have booths available. <end> ok then, tomorrow at 7pm for 2 people sitting in a booth at mission chinese.
+thank you.
+you're welcome, bye.
+hi, how can i help you?
+okay. i need to make an appointment for my car at intelligent auto imports.
+ok, can you please provide your name and number?
+yes, james patton 916-555-4675.
+sorry, i didn't get that number.
+916-555-4675
+and how do you spell your first name?
+a m o s.
+ok, i am scheduling an appointment for amos burton, phone number 916-555-4675, correct?
+that's correct, and i'd like next friday if possible.
+sure, i can check that for you, can you tell me what's wrong with your car?
+yeah, a bunch of the lights aren't working.
+interior or exterior lights?
+exterior.
+ok, you will need to get exterior lights replaced or is it an electrical problem?
+just replacement.
+got it, and what is the year, make, and model of your car?
+it's a 2009 bmw 325.
+ok and you said you wanted to schedule for next friday, february 8th is that correct?
+that's correct.
+one moment while i check the shop's availability.
+<context> one moment while i check the shop's availability. <end> just to let you know, there is a $89 service fee but it can be applied to the cost of repairs if you choose to go with them.
+that sounds fine.
+the shops policy is to bring the car in by 8:30 am and they will give you a call once the work is complete on your car, would that be ok with you?
+yeah, that sounds good.
+ok, i have scheduled an appointment for next friday february 8th at 8:30 am for your 2009 bmw 325 that needs some exterior lights replaced, is that correct?
+yep, that's all correct.
+do you know where the shop is located?
+yeah, i'm familiar with its location.
+great, can i help with anything else?
+no, that will do it. thanks.
+ok, have a nice day.
+i'd like to order two medium pizzas from bella luna, please.
+hi, how can i help you?
+thick crust.
+i would like a meat lover's with with bacon and jalapeños and olives, please.
+sure, what kind of toppings would you like?
+for the other one.
+ok, and for the other?
+is there a pizza that has artichokes?
+okay, i'll build my own custom pizza, please.
+the veggie lovers has artichokes in it or you can build your own custom pizza.
+artichokes, bacon.
+sure, what would you like?
+pineapple.
+extra sauce.
+with extra mushrooms, please.
+and cheese, and that will be all.
+sounds fantastic, thank you.
+ok, you are ordering 2 medium thick crust pizzas, one veggie lovers with jalapenos and olives and 1 with artichokes, bacon, pineapple, and extra sauce, and extra mushrooms, is that correct?
+i'll pick that up, please.
+yes. those are two medium thick crust, correct?
+great, your total will be $38, is that ok?
+all right, fantastic. thank you so much.
+that's correct.
+fantastic. have a nice night, you're the best.
+ok, your receipt will be texted to you and your pizzas will be ready in 30 minutes.
+thanks. i will.
+enjoy your pizzas.
+hi, how can i help you?
+yeah, i need to order an uber, please.
+sure, what is the pickup location?
+it's going to be 15 main street in new york city
+where do you want to be dropped off?
+the amc theater.
+what kind of ride would you like?
+we're going to need an uberx because cus we have six people. or, maybe an uberxl i mean, sorry.
+sure, the fare estimate is $27.50. when would you like to be picked up?
+as soon as possible.
+ok, your driver will be there in 8 minutes.
+thank you so much.
+you're welcome, bye!
+hi, how can i help you?
+hi. i need to get my car repaired at intelligent auto imports.
+ok, can you please provide your name and number?
+my name is john smith.
+and a good number to provide to the shop?
+555-555-5555.
+ok, we are scheduling an appointment for john smith, phone number 555-555-5555, is that correct?
+yes.
+great, what is the year, make, and model of your car?
+it is a 2010 subaru outback.
+ok, what problems are you having with it?
+for some reason several lights are out in the car.
+ok, are those interior or exterior lights?
+exterior lights.
+got it, when would you like to schedule your appointment?
+today at 3:00 p.m.
+let me check if they have availability.
+<context> let me check if they have availability. <end> ok, it looks like they have an opening at 3pm, i'll schedule your appointment now.
+okay.
+just to let you know, there is an $89 inspection fee, but that can be applied to the cost of repairs if you choose to repair at the shop.
+okay.
+ok, i have scheduled an appointment for today at 3pm for your 2010 subaru outback that has some exterior lights out.
+<context> ok, i have scheduled an appointment for today at 3pm for your 2010 subaru outback that has some exterior lights out. <end> can i help you with anything else?
+no.
+ok, drive safe, and have a nice day.
+hello, how can i assist you?
+order pizza from bella luna.
+sure, how many pizzas would you like?
+three.
+ok and what size?
+small.
+what are the toppings?
+meat lovers for all.
+got it. what kind of crust do you prefer?
+gluten-free crust.
+ok. any special instructions?
+no.
+3 small pizzas. meat lovers, gluten-free crust. is this correct?
+yes.
+great. your total is $35.89.
+okay.
+your pizzas will be ready for pickup at bela luna's soon.
+okay.
+enjoy. bye.
+hi there! how can i help?
+hi, how are you?
+great and you?
+i'm wonderful. i need to get picked up from greenwood mall, please.
+in indianapolis, indiana or greenwood, indiana.
+okay give me a moment.
+<context> okay give me a moment. <end> got it! and where are you headed?
+i would like to go to the fashion mall in indianapolis.
+alright! did you need the ride, right now?
+yes, as soon as possible.
+okay! got it! how many people will be traveling with you?
+that's for six people, please. my preference for ride type is the xl uber.
+6, okay great! let me catch you the rates really quickly.
+<context> 6, okay great! let me catch you the rates really quickly. <end> the rate i found for an uberxl will be $45.66.
+well, that sounds fantastic.
+great! shall i request the ride, right now?
+yes.
+okay, one moment please.
+<context> okay, one moment please. <end> alright, your driver has been notified.
+that's fantastic.
+they should arrive within 10 minutes.
+fantastic. what's the estimated duration of the trip?
+the trip is expected to take roughly 55 min to an hour.
+okay, that's fantastic. thank you.
+you're very welcome.
+no, that's all. happy valentines day.
+anything else i can help you with?
+<context> anything else i can help you with? <end> thank you.
+thank you, have a wonderful day.
+to you as well.
+<context> to you as well. <end> thanks! you too!
+<context> to you as well. thanks! you too! <end> byebye.
+hi there how can i help you?
+hi there how can i help you?
+i want to order a pizza.
+i want to order a pizza.
+okay how many pizzas?
+okay how many pizzas?
+three pizza.
+three pizza.
+and what size?
+and what size?
+medium size.
+medium size.
+yeah.
+yeah.
+what kind of pizzas do you want?
+what kind of pizzas do you want?
+a chicken barbecue.
+a chicken barbecue.
+okay so that's 3 medium chicken bbq pizzas.
+okay so that's 3 medium chicken bbq pizzas.
+anything else?
+anything else?
+i need 10 crest.
+i need thin crust.
+got it. with the thin crust that will be $33.77 okay.
+got it. with the thin crust that will be $33.77 okay.
+okay.
+okay.
+great. it'll be ready for pickup in 30 minutes and you'll get your receipt via mobile.
+great. it'll be ready for pickup in 30 minutes and you'll get your receipt via mobile.
+okay. thank you very much. have a nice day.
+okay. thank you very much. have a nice day.
+you too, bye.
+you too, bye.
+bye.
+bye.
+hi there! what can i do for you?
+hello. i want to book a taxi for a ride.
+okay! great
+yeah.
+where are you heading?
+i want to got to the a certain mall.
+okay, your in dallas and want to go to the shopping mall, is that correct?
+yeah, that's right.
+okay! thank you!
+yeah.
+ok google.
+and where in dallas may we pick you up?
+<context> and where in dallas may we pick you up? <end> did you say, "sport venue?"
+yeah.
+okay, i can't seem to find that location. can you give me the address?
+i'm from delos delos sport venue from delos.
+can you give me the address of the sport venue?
+<context> can you give me the address of the sport venue? <end> you you mean the at&t stadium in dallas?
+yeah. yeah. that's right.
+okay, and you're heading to the mall form there?
+can you repeat it?
+you're heading to the mall from there?
+yeah, that's right.
+okay one moment.
+yeah, sure.
+would you like to go to the west village mall on mckinney ave?
+<context> would you like to go to the west village mall on mckinney ave? <end> okay! great.
+yeah.
+and how many riders will be in the uber with you?
+<context> and how many riders will be in the uber with you? <end> okay!
+okay, cool.
+2 passengers means you can either go with the uberx or the uberpool.
+<context> 2 passengers means you can either go with the uberx or the uberpool. <end> which do you prefer?
+what roll is better?
+uberpool will safe you roughly 5 dollars.
+yeah, that does okay for me.
+i want to book a ride.
+okay! i can do that.
+<context> okay! i can do that. <end> an uberpool for 2 people from the at&t stadium to the west village mall will be $17.
+<context> okay! i can do that. an uberpool for 2 people from the at&t stadium to the west village mall will be $17. <end> is that okay?
+<context> okay! i can do that. an uberpool for 2 people from the at&t stadium to the west village mall will be $17. is that okay? <end> great!
+can you book a ride for me? yeah, thank you.
+your ride has been scheduled. you may check the status on your mobile device.
+<context> your ride has been scheduled. you may check the status on your mobile device. <end> you're very welcome!
+have a nice day.
+have a safe trip.
+hi, how can i help you?
+hi, could you help me with ordering from starbucks?
+sure, what would you like to order?
+i would like a carame macchiato.
+ok, would you like to add milk?
+yes.
+what kind of milk would you like?
+2%.
+ok, what size would you like to order?
+a grande, please.
+sure, which store would you like to pick up from?
+the one on old york road in jenkintown, pennsylvania.
+ok let me place your order.
+thank you.
+grande, caramel macchiato with 2% milk, from old york road starbucks, is that correct?
+correct.
+ok, you're all set, your receipt will be texted to you.
+thank you so much. i appreciate it.
+your welcome, enjoy.
+i will.
+hi, how can i help you?
+i'm looking for a restaurant.
+sure, did you want to make a reservation?
+yes.
+and what city did you want to make a reservation in?
+san francisco.
+and what type of food did you want?
+indian food.
+did you have any restaurant preferences? for example, outdoor seating, full bar, etc.
+sit-down.
+any other criteria?
+inexpensive.
+ok.
+<context> ok. <end> let me take a look.
+<context> ok. let me take a look. <end> i found a few options. first is called ritu. indian soul food lunches & daily dinner specials offered in a contemporary neighborhood setting.
+what was the first one?
+second is called tara indian cuisine. snug indian cafe offering traditional eats in an intimate setting with traditional decor touches.
+<context> second is called tara indian cuisine. snug indian cafe offering traditional eats in an intimate setting with traditional decor touches. <end> do either sound appealing to you?
+<context> second is called tara indian cuisine. snug indian cafe offering traditional eats in an intimate setting with traditional decor touches. do either sound appealing to you? <end> first is called ritu.
+does it have a full bar?
+no, ritu does not have a full bar but they do have wine and beer options.
+do they take reservations?
+yes, ritu takes reservations.
+i'll take ritu.
+got it.
+<context> got it. <end> and when did you want a reservation?
+january 26th at 6:00 p.m.
+for how many people?
+three people.
+and an outdoor table.
+an outdoor table on january 26th at 6pm for 3 people is available at ritu's.
+yes, i'll take it.
+would you like me to book this now?
+<context> would you like me to book this now? <end> you're all set.
+thank you.
+anything else i can help with?
+what are the what's the reservation date again?
+your reservation is for saturday january 26th.
+okay, thanks.
+at 6pm.
+<context> at 6pm. <end> you're welcome.
+that's it.
+hi, how can i assist you?
+i am looking for a restaurant in san francisco.
+new restaurants in san francisco yes.
+sure, did you want to be making a reservation?
+<context> sure, did you want to be making a reservation? <end> ok what type of food.
+<context> sure, did you want to be making a reservation? ok what type of food. <end> did you want?
+i'd like an italian food restaurant.
+did you have any restaurant preferences? for example, outdoor seating, full bar, etc.
+yes, i'd like a restaurant that has sorts of alcohol, preferably wine, has outdoor sitting, and live music.
+i found a few options. first is a mano. buzzy neighborhood spot offering housemade pasta, pizza & italian wine in spacious environs.
+<context> i found a few options. first is a mano. buzzy neighborhood spot offering housemade pasta, pizza & italian wine in spacious environs. <end> second is called roma antica. welcoming neighborhood spot serving modern italian eats & wine in petite digs with marble accents.
+<context> i found a few options. first is a mano. buzzy neighborhood spot offering housemade pasta, pizza & italian wine in spacious environs. second is called roma antica. welcoming neighborhood spot serving modern italian eats & wine in petite digs with marble accents. <end> do either of these sound good to you?
+yes. the second one, do they have live music? and what is modern italian food mean?
+yes, roma antica has live music on sunday nights.
+okay, and what is modern italian food?
+you can check the menu online for specific details about modern italian food.
+okay. and for the first one, you had mentioned pizza. do they serve is it just a pizza place, or do they have like pasta, seafood italian food, too?
+a mano has a wide variety in their menu, including pizza but not limited to pizza.
+okay, great. i think i'll make a reservation for the second one.
+roma antica it is.
+<context> roma antica it is. <end> and when do you want the reservation?
+how about sunday, january 27th?
+what time did you want to go there?
+8:00 p.m.
+and for how many people?
+seven.
+roma antica for sunday january 27th at 8pm for 7 people is available.
+<context> roma antica for sunday january 27th at 8pm for 7 people is available. <end> would you like me to book this now?
+yes, but also can you give us a reservation for a seat outside?
+sure, let me modify that reservation.
+<context> sure, let me modify that reservation. <end> roma antica for sunday january 27th at 8pm for 7 people outside seating.
+<context> sure, let me modify that reservation. roma antica for sunday january 27th at 8pm for 7 people outside seating. <end> would you like me to book this now?
+yes, please.
+cool, i've booked your reservation for you.
+<context> cool, i've booked your reservation for you. <end> you're all set.
+<context> cool, i've booked your reservation for you. you're all set. <end> anything else i can help you with?
+oh, that's it. thanks.
+cool.
+<context> cool. <end> you are welcome.
